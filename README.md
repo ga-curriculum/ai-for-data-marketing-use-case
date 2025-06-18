@@ -1,65 +1,29 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">AI Use Case: Marketing Analytics</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module helps you apply GenAI tools to real-world marketing analytics. Across three microlessons, you’ll explore how to break down analytic tasks, prompt strategically, and extract actionable insights from customer feedback.
 
-## Content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
-
-## References
-
-📖 [Reference Materials](./references/README.md)
-
-## Internal
-
-### Prerequisites
-
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-### Course landing pages
-
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
-
-### Resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
+You’ll finish by running a hands-on analysis of a Smart Grocery Cart pilot dataset, where you'll assess market fit and make recommendations based on real-world signals.
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+## What's included
+
+| Microlesson | Duration | Focus |
+|-------------|----------|-------|
+| [Decomposing marketing analytics for AI integration](../decomposing-marketing-analytics-ai/README.md) | 15 min | Learn how to break larger analytic tasks into GenAI-friendly subcomponents. |
+| [Leveraging GenAI for unstructured marketing data](../leveraging-genai-unstructured-marketing-data/README.md) | 15 min | Learn how GenAI can extract insights from survey responses, comments, and other free-text fields. |
+| [Market fit analysis using GenAI](../market-fit-analysis-using-genai/README.md) | 30 min | Apply what you've learned to a real-world dataset and strategic business question. |
+
+
+## Prerequisites
+
+Before starting this module, we recommend you:
+
+- Have a basic understanding of GenAI prompting
+- Are comfortable interpreting customer sentiment and text-based feedback
+- Are familiar with key marketing concepts like segmentation, personas, and product/market fit
