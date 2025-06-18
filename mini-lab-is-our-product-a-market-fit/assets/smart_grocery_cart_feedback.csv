@@ -1,0 +1,1001 @@
+comment_text,store_location,shopping_frequency,tech_comfort_level,user_role,timestamp,purchase_amount
+"Personally, I think it's overcomplicated for groceries.",Rural,weekly,high,employee,2025-05-24 15:34:25,81.83
+Most common complaint I hear is lack of clarity.,Rural,weekly,medium,employee,2025-06-03 15:34:25,85.68
+Customers often mention that the cart is confusing for older shoppers.,Airport,occasional,low,store_manager,2025-05-22 15:34:25,201.53
+Training shoppers on the cart is frustrating at peak hours.,University District,occasional,low,employee,2025-05-20 15:34:25,216.34
+Employees report that most people need help at first.,Airport,weekly,low,store_manager,2025-05-26 15:34:25,38.9
+We’ve had repeated complaints about recipe accuracy.,Downtown,daily,medium,store_manager,2025-06-03 15:34:25,147.4
+Customers often mention that the cart is confusing for older shoppers.,Rural,weekly,low,store_manager,2025-06-02 15:34:25,16.45
+It was frustrating when the cart kept beeping unnecessarily.,Suburban,occasional,medium,shopper,2025-06-18 15:34:25,214.73
+We're seeing increased basket size since introducing the carts.,Rural,daily,low,store_manager,2025-05-27 15:34:25,144.24
+Setup and maintenance is a hassle.,Downtown,weekly,low,employee,2025-05-28 15:34:25,51.16
+"Personally, I think it helps customers feel smarter.",University District,weekly,high,employee,2025-06-17 15:34:25,157.07
+Employees report that setup is time-consuming.,Rural,occasional,medium,store_manager,2025-06-11 15:34:25,135.61
+"It works well when the signal is strong, but fails if the scanner jams.",Rural,daily,low,employee,2025-06-14 15:34:25,54.2
+Employees report that most people need help at first.,Downtown,daily,medium,store_manager,2025-06-07 15:34:25,216.45
+I really liked how it helped me plan meals on the fly.,Downtown,occasional,high,shopper,2025-06-01 15:34:25,28.11
+I really liked how it helped me plan meals on the fly.,Suburban,weekly,medium,shopper,2025-05-27 15:34:25,28.12
+It was frustrating when the cart gave wrong suggestions.,Downtown,daily,high,shopper,2025-05-31 15:34:25,192.26
+We're seeing increased basket size since introducing the carts.,Suburban,daily,medium,store_manager,2025-05-24 15:34:25,74.38
+It better compared to a normal cart.,Suburban,weekly,low,shopper,2025-05-22 15:34:25,10.33
+We're seeing increased basket size since introducing the carts.,Airport,weekly,low,store_manager,2025-06-14 15:34:25,74.63
+It’s been slow to catch on with our regulars.,Airport,occasional,high,store_manager,2025-05-31 15:34:25,69.12
+I really liked how it helped me find deals.,Suburban,occasional,high,shopper,2025-05-20 15:34:25,135.01
+It’s been polarizing with our regulars.,Suburban,occasional,low,store_manager,2025-06-16 15:34:25,243.13
+Employees report that setup is time-consuming.,Suburban,occasional,low,store_manager,2025-06-02 15:34:25,163.36
+"Personally, I think it helps customers feel smarter.",Rural,daily,medium,employee,2025-06-05 15:34:25,205.45
+We’ve had repeated complaints about recipe accuracy.,Rural,weekly,high,store_manager,2025-06-10 15:34:25,220.81
+We’ve had repeated complaints about recipe accuracy.,University District,occasional,high,store_manager,2025-06-15 15:34:25,171.89
+Employees report that setup is time-consuming.,Airport,daily,medium,store_manager,2025-06-17 15:34:25,148.82
+"Personally, I think it's overcomplicated for groceries.",Rural,daily,low,employee,2025-05-27 15:34:25,32.12
+I really liked how it helped me plan meals on the fly.,Suburban,weekly,medium,shopper,2025-06-16 15:34:25,42.09
+It’s been slow to catch on with our regulars.,Downtown,weekly,high,store_manager,2025-06-05 15:34:25,116.72
+Employees report that most people need help at first.,Airport,weekly,low,store_manager,2025-06-01 15:34:25,36.25
+It was frustrating when the cart gave wrong suggestions.,Downtown,weekly,low,shopper,2025-06-16 15:34:25,35.61
+It was frustrating when the cart lost Wi-Fi.,Rural,occasional,low,shopper,2025-05-26 15:34:25,53.77
+It’s been a hit with our regulars.,Rural,weekly,low,store_manager,2025-06-17 15:34:25,76.07
+It was frustrating when the cart lost Wi-Fi.,Downtown,occasional,low,shopper,2025-06-07 15:34:25,117.71
+I've had to assist customers when shoppers ignore the prompts.,University District,weekly,high,employee,2025-06-02 15:34:25,28.17
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Suburban,occasional,high,store_manager,2025-06-11 15:34:25,176.58
+I've had to assist customers when the cart freezes.,Airport,occasional,high,employee,2025-05-20 15:34:25,246.54
+Employees report that most people need help at first.,University District,occasional,low,store_manager,2025-05-20 15:34:25,36.27
+"Some shoppers love checkout skipping, others dislike automatic scanning.",University District,weekly,medium,store_manager,2025-05-25 15:34:25,51.67
+Setup and maintenance is manageable.,Suburban,daily,medium,employee,2025-06-17 15:34:25,44.04
+It’s been slow to catch on with our regulars.,Airport,occasional,high,store_manager,2025-06-05 15:34:25,16.62
+It worse compared to a normal cart.,University District,weekly,low,shopper,2025-06-14 15:34:25,234.77
+Employees report that setup is time-consuming.,Airport,occasional,medium,store_manager,2025-06-13 15:34:25,13.08
+We're seeing increased basket size since introducing the carts.,Airport,weekly,low,store_manager,2025-05-30 15:34:25,124.12
+"Using the cart felt convenient, especially with real-time budgeting.",Airport,daily,low,shopper,2025-06-08 15:34:25,14.78
+"I usually shop every day, and this made it more complicated.",Suburban,daily,medium,shopper,2025-06-08 15:34:25,92.03
+I really liked how it helped me plan meals on the fly.,Airport,daily,low,shopper,2025-06-08 15:34:25,247.78
+Setup and maintenance is manageable.,Suburban,occasional,high,employee,2025-06-10 15:34:25,100.63
+"Personally, I think it's overcomplicated for groceries.",Airport,weekly,high,employee,2025-06-01 15:34:25,187.91
+It’s been polarizing with our regulars.,University District,weekly,high,store_manager,2025-06-04 15:34:25,40.49
+"I usually shop weekly, and this made it more complicated.",University District,occasional,low,shopper,2025-06-09 15:34:25,224.57
+"Personally, I think it helps customers feel smarter.",Airport,occasional,low,employee,2025-05-26 15:34:25,241.85
+Training shoppers on the cart is frustrating at peak hours.,Downtown,occasional,medium,employee,2025-06-08 15:34:25,137.18
+It about the same compared to a normal cart.,Suburban,daily,medium,shopper,2025-05-26 15:34:25,245.87
+I didn’t expect the cart to speak to me.,University District,weekly,high,shopper,2025-05-21 15:34:25,16.34
+"Using the cart felt surprisingly natural, especially with the voice assistant.",Airport,weekly,high,shopper,2025-06-06 15:34:25,199.08
+It was frustrating when the cart lost Wi-Fi.,Suburban,occasional,high,shopper,2025-05-20 15:34:25,189.24
+It about the same compared to a normal cart.,Downtown,daily,low,shopper,2025-06-15 15:34:25,22.88
+It was frustrating when the cart gave wrong suggestions.,Downtown,weekly,medium,shopper,2025-05-21 15:34:25,78.1
+I really liked how it helped me track my budget.,University District,weekly,low,shopper,2025-05-24 15:34:25,25.22
+Customers often mention that the cart is confusing for older shoppers.,Suburban,occasional,medium,store_manager,2025-06-11 15:34:25,89.15
+Employees report that most people need help at first.,Airport,occasional,low,store_manager,2025-06-07 15:34:25,80.91
+We're seeing increased shopping speed since introducing the carts.,Airport,weekly,medium,store_manager,2025-05-29 15:34:25,58.25
+Customers often mention that the cart is confusing for older shoppers.,University District,weekly,high,store_manager,2025-05-23 15:34:25,141.55
+It’s been a hit with our regulars.,Airport,weekly,medium,store_manager,2025-06-06 15:34:25,75.31
+We’ve had repeated complaints about recipe accuracy.,University District,daily,medium,store_manager,2025-06-16 15:34:25,222.21
+It’s been polarizing with our regulars.,University District,occasional,low,store_manager,2025-05-26 15:34:25,240.6
+It better compared to a normal cart.,Airport,daily,medium,shopper,2025-06-02 15:34:25,120.41
+"Using the cart felt surprisingly natural, especially with the voice assistant.",Rural,weekly,low,shopper,2025-05-30 15:34:25,125.0
+Customers often mention that the cart helps people discover new items.,Airport,weekly,medium,store_manager,2025-06-04 15:34:25,230.89
+"Using the cart felt surprisingly natural, especially with the voice assistant.",University District,weekly,high,shopper,2025-06-16 15:34:25,234.91
+"Some shoppers love nutrition alerts, others dislike the voice prompts.",Airport,occasional,high,store_manager,2025-06-10 15:34:25,166.92
+Employees report that most people need help at first.,Downtown,weekly,medium,store_manager,2025-06-03 15:34:25,233.29
+It was frustrating when the cart kept beeping unnecessarily.,University District,daily,medium,shopper,2025-06-14 15:34:25,89.45
+We're seeing increased shopping speed since introducing the carts.,University District,weekly,high,store_manager,2025-05-28 15:34:25,129.91
+"Using the cart felt convenient, especially with the voice assistant.",Airport,occasional,low,shopper,2025-06-08 15:34:25,159.62
+I didn’t expect the cart to speak to me.,University District,occasional,high,shopper,2025-05-30 15:34:25,78.96
+Most common complaint I hear is loud notifications.,University District,daily,high,employee,2025-05-27 15:34:25,113.72
+I didn’t expect the cart to speak to me.,Downtown,occasional,low,shopper,2025-05-28 15:34:25,181.03
+Most common complaint I hear is lack of clarity.,Downtown,weekly,medium,employee,2025-05-20 15:34:25,168.25
+Setup and maintenance is a hassle.,Airport,weekly,high,employee,2025-06-01 15:34:25,82.53
+It was frustrating when the cart kept beeping unnecessarily.,Airport,daily,medium,shopper,2025-06-01 15:34:25,65.71
+It was frustrating when the cart kept beeping unnecessarily.,Rural,occasional,low,shopper,2025-05-22 15:34:25,20.18
+Training shoppers on the cart is pretty easy.,Suburban,occasional,low,employee,2025-06-02 15:34:25,242.2
+We’ve had repeated complaints about recipe accuracy.,Rural,daily,low,store_manager,2025-06-12 15:34:25,186.19
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Airport,occasional,medium,store_manager,2025-05-21 15:34:25,196.08
+It was frustrating when the cart lost Wi-Fi.,University District,weekly,high,shopper,2025-06-12 15:34:25,105.93
+It was frustrating when the cart lost Wi-Fi.,Suburban,weekly,high,shopper,2025-06-05 15:34:25,108.77
+"Some shoppers love checkout skipping, others dislike automatic scanning.",University District,weekly,medium,store_manager,2025-06-15 15:34:25,166.3
+Most common complaint I hear is lack of clarity.,University District,daily,low,employee,2025-06-06 15:34:25,186.69
+Employees report that most people need help at first.,University District,occasional,medium,store_manager,2025-05-28 15:34:25,188.81
+Training shoppers on the cart is pretty easy.,Suburban,weekly,medium,employee,2025-06-11 15:34:25,131.74
+It’s been slow to catch on with our regulars.,Airport,weekly,low,store_manager,2025-05-27 15:34:25,95.58
+I really liked how it helped me track my budget.,Airport,daily,high,shopper,2025-06-15 15:34:25,216.57
+It was frustrating when the cart kept beeping unnecessarily.,University District,occasional,high,shopper,2025-06-09 15:34:25,120.45
+We’ve had repeated complaints about cart syncing.,University District,occasional,medium,store_manager,2025-05-28 15:34:25,186.09
+Most common complaint I hear is loud notifications.,Downtown,occasional,medium,employee,2025-06-07 15:34:25,70.1
+"Personally, I think it helps customers feel smarter.",University District,occasional,low,employee,2025-06-12 15:34:25,221.95
+It’s been a hit with our regulars.,Rural,daily,low,store_manager,2025-05-21 15:34:25,114.42
+It was frustrating when the cart kept beeping unnecessarily.,Rural,daily,high,shopper,2025-06-06 15:34:25,216.89
+Customers often mention that the cart helps people discover new items.,Airport,daily,high,store_manager,2025-06-13 15:34:25,31.03
+We’ve had repeated complaints about recipe accuracy.,Suburban,weekly,medium,store_manager,2025-06-07 15:34:25,22.69
+It was frustrating when the cart lost Wi-Fi.,Downtown,occasional,high,shopper,2025-05-31 15:34:25,211.27
+I didn’t expect the cart to speak to me.,Rural,occasional,low,shopper,2025-05-23 15:34:25,54.85
+I didn’t expect the cart to freeze unexpectedly.,University District,daily,medium,shopper,2025-05-20 15:34:25,164.35
+We're seeing increased shopping speed since introducing the carts.,Suburban,weekly,high,store_manager,2025-06-15 15:34:25,51.08
+Employees report that most people need help at first.,Downtown,weekly,low,store_manager,2025-06-02 15:34:25,156.39
+Customers often mention that the cart is confusing for older shoppers.,Downtown,weekly,low,store_manager,2025-05-22 15:34:25,56.57
+Customers often mention that the cart is confusing for older shoppers.,Rural,daily,medium,store_manager,2025-06-10 15:34:25,41.83
+Setup and maintenance is smooth.,Rural,occasional,medium,employee,2025-06-11 15:34:25,27.97
+It was frustrating when the cart lost Wi-Fi.,Downtown,daily,low,shopper,2025-06-17 15:34:25,227.8
+Setup and maintenance is smooth.,Downtown,daily,medium,employee,2025-06-05 15:34:25,239.09
+I've had to assist customers when the cart freezes.,Suburban,occasional,medium,employee,2025-06-01 15:34:25,176.49
+Training shoppers on the cart is time-consuming.,Downtown,weekly,high,employee,2025-05-31 15:34:25,82.0
+It about the same compared to a normal cart.,University District,daily,medium,shopper,2025-06-13 15:34:25,162.23
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Airport,daily,medium,store_manager,2025-06-07 15:34:25,38.94
+"I usually shop weekly, and this made it kind of fun.",Rural,weekly,medium,shopper,2025-05-31 15:34:25,114.35
+I really liked how it helped me plan meals on the fly.,University District,occasional,medium,shopper,2025-06-06 15:34:25,69.01
+We’ve had repeated complaints about connectivity.,University District,weekly,high,store_manager,2025-05-23 15:34:25,27.3
+"I usually shop every day, and this made it kind of fun.",Downtown,weekly,medium,shopper,2025-06-14 15:34:25,189.23
+I really liked how it helped me find deals.,Airport,weekly,high,shopper,2025-05-20 15:34:25,38.32
+We’ve had repeated complaints about cart syncing.,Rural,occasional,low,store_manager,2025-05-23 15:34:25,232.4
+We’ve had repeated complaints about cart syncing.,Suburban,occasional,medium,store_manager,2025-06-18 15:34:25,213.99
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Downtown,weekly,medium,store_manager,2025-06-17 15:34:25,35.8
+"Using the cart felt awkward, especially with the scanner.",Downtown,daily,medium,shopper,2025-06-04 15:34:25,221.12
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Rural,occasional,low,store_manager,2025-05-29 15:34:25,210.24
+Training shoppers on the cart is frustrating at peak hours.,University District,weekly,high,employee,2025-06-03 15:34:25,195.36
+It better compared to a normal cart.,Suburban,weekly,high,shopper,2025-06-14 15:34:25,232.18
+It was frustrating when the cart kept beeping unnecessarily.,Airport,daily,medium,shopper,2025-06-08 15:34:25,215.31
+Most common complaint I hear is loud notifications.,Suburban,daily,low,employee,2025-06-17 15:34:25,75.17
+It’s been a hit with our regulars.,University District,weekly,high,store_manager,2025-05-30 15:34:25,122.63
+I really liked how it helped me plan meals on the fly.,University District,daily,medium,shopper,2025-06-16 15:34:25,168.9
+Employees report that most people need help at first.,Rural,occasional,high,store_manager,2025-06-06 15:34:25,237.02
+I didn’t expect the cart to freeze unexpectedly.,Rural,weekly,high,shopper,2025-06-12 15:34:25,98.12
+Employees report that most people need help at first.,Suburban,weekly,low,store_manager,2025-06-06 15:34:25,96.72
+"Personally, I think it helps customers feel smarter.",Airport,daily,high,employee,2025-05-31 15:34:25,123.51
+Setup and maintenance is smooth.,Airport,occasional,high,employee,2025-05-28 15:34:25,210.66
+Setup and maintenance is smooth.,Rural,weekly,low,employee,2025-05-31 15:34:25,106.21
+Customers often mention that the cart helps people discover new items.,Airport,occasional,medium,store_manager,2025-05-23 15:34:25,184.91
+We're seeing increased shopping speed since introducing the carts.,University District,daily,medium,store_manager,2025-06-05 15:34:25,55.84
+It’s been slow to catch on with our regulars.,Downtown,occasional,low,store_manager,2025-05-27 15:34:25,242.55
+I really liked how it helped me track my budget.,Airport,occasional,high,shopper,2025-05-30 15:34:25,182.55
+Employees report that setup is time-consuming.,Downtown,weekly,high,store_manager,2025-06-04 15:34:25,67.68
+Most common complaint I hear is loud notifications.,Rural,daily,low,employee,2025-05-20 15:34:25,135.15
+I really liked how it helped me find deals.,Airport,weekly,medium,shopper,2025-06-04 15:34:25,105.18
+"Some shoppers love nutrition alerts, others dislike the voice prompts.",Rural,occasional,high,store_manager,2025-06-05 15:34:25,141.83
+"Personally, I think it helps customers feel smarter.",Suburban,daily,low,employee,2025-05-29 15:34:25,234.44
+Setup and maintenance is a hassle.,Rural,daily,medium,employee,2025-06-11 15:34:25,139.79
+"I usually shop occasionally, and this made it faster.",University District,occasional,medium,shopper,2025-06-06 15:34:25,93.84
+Training shoppers on the cart is time-consuming.,Airport,weekly,low,employee,2025-05-30 15:34:25,200.13
+It about the same compared to a normal cart.,University District,occasional,low,shopper,2025-05-24 15:34:25,114.55
+"I usually shop occasionally, and this made it more complicated.",Suburban,daily,medium,shopper,2025-05-29 15:34:25,206.14
+We're seeing increased basket size since introducing the carts.,Suburban,daily,high,store_manager,2025-05-25 15:34:25,60.98
+It better compared to a normal cart.,Rural,occasional,low,shopper,2025-05-28 15:34:25,10.77
+It’s been slow to catch on with our regulars.,Rural,weekly,low,store_manager,2025-06-06 15:34:25,206.25
+It about the same compared to a normal cart.,Downtown,daily,low,shopper,2025-06-15 15:34:25,87.45
+It was frustrating when the cart kept beeping unnecessarily.,University District,occasional,medium,shopper,2025-06-13 15:34:25,225.44
+"I usually shop every day, and this made it faster.",Downtown,daily,medium,shopper,2025-05-29 15:34:25,165.56
+We’ve had repeated complaints about connectivity.,Suburban,weekly,high,store_manager,2025-05-22 15:34:25,245.67
+It’s been slow to catch on with our regulars.,Rural,occasional,low,store_manager,2025-06-05 15:34:25,12.33
+I didn’t expect the cart to show me recipes mid-aisle.,Suburban,occasional,low,shopper,2025-06-02 15:34:25,139.53
+I didn’t expect the cart to show me recipes mid-aisle.,Suburban,weekly,low,shopper,2025-05-27 15:34:25,129.64
+I've had to assist customers when the cart freezes.,Rural,occasional,low,employee,2025-06-11 15:34:25,203.43
+I didn’t expect the cart to speak to me.,Airport,daily,medium,shopper,2025-06-11 15:34:25,172.23
+It better compared to a normal cart.,Suburban,weekly,medium,shopper,2025-05-25 15:34:25,67.69
+It was frustrating when the cart lost Wi-Fi.,Rural,occasional,low,shopper,2025-06-16 15:34:25,76.68
+Most common complaint I hear is lack of clarity.,Suburban,occasional,medium,employee,2025-06-08 15:34:25,196.92
+We’ve had repeated complaints about connectivity.,Rural,occasional,low,store_manager,2025-06-10 15:34:25,61.45
+It’s been a hit with our regulars.,University District,daily,medium,store_manager,2025-06-16 15:34:25,13.78
+Most common complaint I hear is loud notifications.,University District,occasional,high,employee,2025-06-05 15:34:25,176.81
+"Using the cart felt surprisingly natural, especially with the scanner.",University District,occasional,low,shopper,2025-05-28 15:34:25,182.96
+I didn’t expect the cart to speak to me.,Suburban,weekly,high,shopper,2025-05-21 15:34:25,236.14
+We’ve had repeated complaints about connectivity.,Downtown,weekly,medium,store_manager,2025-06-06 15:34:25,109.07
+It better compared to a normal cart.,Suburban,weekly,low,shopper,2025-06-05 15:34:25,14.51
+"Using the cart felt awkward, especially with real-time budgeting.",Suburban,occasional,medium,shopper,2025-05-23 15:34:25,133.05
+Setup and maintenance is a hassle.,University District,daily,high,employee,2025-06-02 15:34:25,229.6
+I didn’t expect the cart to speak to me.,Airport,daily,low,shopper,2025-05-22 15:34:25,195.76
+I really liked how it helped me plan meals on the fly.,Downtown,weekly,low,shopper,2025-05-22 15:34:25,234.24
+"Some shoppers love checkout skipping, others dislike automatic scanning.",University District,weekly,low,store_manager,2025-06-03 15:34:25,203.22
+Employees report that most people need help at first.,Downtown,daily,medium,store_manager,2025-06-17 15:34:25,186.2
+I didn’t expect the cart to show me recipes mid-aisle.,Rural,occasional,low,shopper,2025-06-03 15:34:25,189.52
+Employees report that setup is time-consuming.,Airport,weekly,medium,store_manager,2025-06-13 15:34:25,202.17
+It’s been polarizing with our regulars.,Rural,daily,high,store_manager,2025-05-31 15:34:25,31.74
+It better compared to a normal cart.,Airport,weekly,high,shopper,2025-06-11 15:34:25,120.54
+Setup and maintenance is manageable.,Rural,daily,low,employee,2025-05-20 15:34:25,114.05
+It better compared to a normal cart.,Downtown,weekly,low,shopper,2025-05-21 15:34:25,229.06
+Employees report that setup is time-consuming.,Airport,daily,high,store_manager,2025-05-24 15:34:25,119.15
+"It works well when the signal is strong, but fails if the scanner jams.",Rural,occasional,medium,employee,2025-06-12 15:34:25,148.61
+Training shoppers on the cart is frustrating at peak hours.,Suburban,occasional,high,employee,2025-05-30 15:34:25,205.2
+We’ve had repeated complaints about cart syncing.,Airport,daily,medium,store_manager,2025-06-16 15:34:25,80.45
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Suburban,weekly,low,store_manager,2025-06-03 15:34:25,125.49
+It’s been polarizing with our regulars.,Airport,weekly,low,store_manager,2025-05-25 15:34:25,60.08
+"Personally, I think it helps customers feel smarter.",University District,daily,low,employee,2025-05-29 15:34:25,16.29
+Setup and maintenance is smooth.,Airport,weekly,medium,employee,2025-06-11 15:34:25,152.95
+"Using the cart felt convenient, especially with the voice assistant.",Downtown,daily,low,shopper,2025-05-29 15:34:25,89.42
+"Personally, I think it helps customers feel smarter.",University District,occasional,low,employee,2025-06-06 15:34:25,180.81
+"I usually shop occasionally, and this made it faster.",Rural,weekly,high,shopper,2025-05-25 15:34:25,187.24
+"It works well when the signal is strong, but fails if the screen lags.",University District,occasional,medium,employee,2025-05-26 15:34:25,159.95
+It was frustrating when the cart kept beeping unnecessarily.,Downtown,occasional,medium,shopper,2025-05-26 15:34:25,93.35
+Employees report that most people need help at first.,University District,occasional,high,store_manager,2025-06-01 15:34:25,43.48
+I've had to assist customers when shoppers ignore the prompts.,University District,occasional,medium,employee,2025-06-06 15:34:25,188.39
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Downtown,daily,medium,store_manager,2025-05-23 15:34:25,192.42
+It better compared to a normal cart.,Rural,weekly,low,shopper,2025-06-12 15:34:25,162.71
+I really liked how it helped me plan meals on the fly.,Downtown,occasional,medium,shopper,2025-06-06 15:34:25,122.3
+Customers often mention that the cart is confusing for older shoppers.,Airport,daily,high,store_manager,2025-06-11 15:34:25,80.03
+I didn’t expect the cart to speak to me.,Suburban,daily,low,shopper,2025-06-10 15:34:25,144.69
+Setup and maintenance is smooth.,Airport,occasional,medium,employee,2025-06-04 15:34:25,38.62
+It’s been polarizing with our regulars.,Downtown,occasional,low,store_manager,2025-06-06 15:34:25,121.82
+Employees report that setup is time-consuming.,Airport,occasional,low,store_manager,2025-05-21 15:34:25,127.13
+I really liked how it helped me plan meals on the fly.,Downtown,occasional,medium,shopper,2025-06-11 15:34:25,99.44
+It’s been slow to catch on with our regulars.,Suburban,daily,medium,store_manager,2025-06-16 15:34:25,115.63
+Setup and maintenance is a hassle.,Rural,daily,medium,employee,2025-06-09 15:34:25,122.27
+Training shoppers on the cart is frustrating at peak hours.,Airport,daily,high,employee,2025-06-13 15:34:25,107.03
+I really liked how it helped me plan meals on the fly.,Suburban,occasional,high,shopper,2025-06-11 15:34:25,28.25
+Most common complaint I hear is lack of clarity.,University District,occasional,low,employee,2025-05-31 15:34:25,119.94
+Most common complaint I hear is lack of clarity.,Downtown,occasional,high,employee,2025-06-06 15:34:25,46.19
+I've had to assist customers when the cart freezes.,Suburban,daily,medium,employee,2025-05-26 15:34:25,179.34
+"Some shoppers love checkout skipping, others dislike automatic scanning.",Suburban,occasional,medium,store_manager,2025-05-30 15:34:25,184.21
+"Some shoppers love checkout skipping, others dislike automatic scanning.",Airport,occasional,medium,store_manager,2025-05-22 15:34:25,193.63
+Employees report that setup is time-consuming.,University District,daily,low,store_manager,2025-06-16 15:34:25,42.11
+It’s been polarizing with our regulars.,Airport,weekly,low,store_manager,2025-06-06 15:34:25,49.27
+I really liked how it helped me find deals.,Downtown,occasional,low,shopper,2025-06-12 15:34:25,80.3
+It was frustrating when the cart gave wrong suggestions.,Airport,occasional,low,shopper,2025-06-08 15:34:25,19.01
+I really liked how it helped me find deals.,Downtown,occasional,medium,shopper,2025-06-01 15:34:25,11.42
+Customers often mention that the cart helps people discover new items.,Downtown,weekly,medium,store_manager,2025-05-24 15:34:25,78.57
+"It works well when the signal is strong, but fails if the scanner jams.",Rural,weekly,low,employee,2025-06-05 15:34:25,234.28
+Setup and maintenance is smooth.,Airport,weekly,high,employee,2025-06-16 15:34:25,205.91
+"Some shoppers love checkout skipping, others dislike automatic scanning.",Rural,occasional,low,store_manager,2025-06-14 15:34:25,44.53
+Customers often mention that the cart is confusing for older shoppers.,Downtown,occasional,high,store_manager,2025-06-01 15:34:25,247.94
+Employees report that most people need help at first.,Downtown,weekly,low,store_manager,2025-05-26 15:34:25,95.19
+We're seeing increased basket size since introducing the carts.,Downtown,daily,medium,store_manager,2025-05-27 15:34:25,143.13
+Setup and maintenance is smooth.,Suburban,weekly,high,employee,2025-05-22 15:34:25,114.81
+"Personally, I think it's overcomplicated for groceries.",Downtown,occasional,medium,employee,2025-05-28 15:34:25,68.63
+I really liked how it helped me find deals.,Airport,daily,low,shopper,2025-06-11 15:34:25,244.38
+Training shoppers on the cart is pretty easy.,Downtown,daily,high,employee,2025-05-23 15:34:25,98.22
+We’ve had repeated complaints about cart syncing.,University District,occasional,medium,store_manager,2025-06-15 15:34:25,70.65
+I've had to assist customers when the cart freezes.,Suburban,daily,low,employee,2025-05-27 15:34:25,149.39
+"Using the cart felt surprisingly natural, especially with the voice assistant.",Airport,occasional,low,shopper,2025-06-16 15:34:25,97.98
+"It works well when the signal is strong, but fails if the scanner jams.",Airport,weekly,high,employee,2025-06-10 15:34:25,60.05
+It better compared to a normal cart.,Airport,weekly,medium,shopper,2025-06-12 15:34:25,177.6
+We're seeing increased basket size since introducing the carts.,Airport,daily,low,store_manager,2025-06-13 15:34:25,215.65
+It’s been a hit with our regulars.,Rural,occasional,medium,store_manager,2025-06-10 15:34:25,60.88
+"Personally, I think it helps customers feel smarter.",Rural,daily,low,employee,2025-05-30 15:34:25,247.3
+"Using the cart felt convenient, especially with the voice assistant.",University District,occasional,medium,shopper,2025-06-12 15:34:25,54.55
+We’ve had repeated complaints about connectivity.,Rural,daily,high,store_manager,2025-06-14 15:34:25,246.17
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Downtown,daily,medium,store_manager,2025-05-20 15:34:25,20.92
+Setup and maintenance is manageable.,Downtown,occasional,high,employee,2025-05-21 15:34:25,102.38
+I really liked how it helped me plan meals on the fly.,Downtown,occasional,low,shopper,2025-06-10 15:34:25,192.38
+Employees report that setup is time-consuming.,Rural,occasional,low,store_manager,2025-05-26 15:34:25,108.94
+"Personally, I think it helps customers feel smarter.",Airport,weekly,high,employee,2025-06-09 15:34:25,58.65
+It was frustrating when the cart gave wrong suggestions.,Rural,weekly,medium,shopper,2025-06-12 15:34:25,65.44
+I really liked how it helped me find deals.,Suburban,occasional,high,shopper,2025-06-16 15:34:25,65.42
+I've had to assist customers when shoppers ignore the prompts.,University District,weekly,medium,employee,2025-06-05 15:34:25,74.67
+Training shoppers on the cart is frustrating at peak hours.,Suburban,weekly,medium,employee,2025-06-14 15:34:25,108.72
+"Some shoppers love nutrition alerts, others dislike the voice prompts.",Rural,occasional,low,store_manager,2025-05-30 15:34:25,58.15
+Most common complaint I hear is lack of clarity.,Rural,weekly,medium,employee,2025-06-11 15:34:25,187.73
+"Using the cart felt convenient, especially with the scanner.",University District,weekly,low,shopper,2025-06-12 15:34:25,95.81
+We’ve had repeated complaints about cart syncing.,Downtown,weekly,medium,store_manager,2025-06-14 15:34:25,170.98
+Employees report that setup is time-consuming.,Suburban,daily,low,store_manager,2025-06-08 15:34:25,106.59
+It’s been slow to catch on with our regulars.,University District,daily,high,store_manager,2025-06-05 15:34:25,141.13
+I didn’t expect the cart to speak to me.,Rural,occasional,low,shopper,2025-05-24 15:34:25,57.49
+"Using the cart felt convenient, especially with the scanner.",Suburban,daily,high,shopper,2025-06-13 15:34:25,165.03
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Suburban,occasional,low,store_manager,2025-06-16 15:34:25,102.97
+"I usually shop weekly, and this made it more complicated.",University District,weekly,low,shopper,2025-06-18 15:34:25,151.81
+"Some shoppers love checkout skipping, others dislike automatic scanning.",Airport,daily,high,store_manager,2025-06-03 15:34:25,246.7
+It’s been a hit with our regulars.,Suburban,weekly,high,store_manager,2025-06-08 15:34:25,76.62
+Training shoppers on the cart is frustrating at peak hours.,Suburban,daily,high,employee,2025-06-08 15:34:25,241.42
+I really liked how it helped me find deals.,Rural,occasional,low,shopper,2025-05-31 15:34:25,194.53
+I didn’t expect the cart to show me recipes mid-aisle.,Downtown,occasional,low,shopper,2025-05-22 15:34:25,47.53
+It’s been a hit with our regulars.,Suburban,daily,low,store_manager,2025-05-20 15:34:25,64.12
+Setup and maintenance is smooth.,University District,daily,low,employee,2025-06-06 15:34:25,96.06
+We're seeing increased basket size since introducing the carts.,Downtown,weekly,medium,store_manager,2025-06-05 15:34:25,135.82
+"I usually shop every day, and this made it kind of fun.",University District,weekly,low,shopper,2025-06-04 15:34:25,78.68
+We're seeing increased basket size since introducing the carts.,Suburban,weekly,medium,store_manager,2025-06-02 15:34:25,229.6
+It about the same compared to a normal cart.,Airport,occasional,low,shopper,2025-05-23 15:34:25,29.38
+It worse compared to a normal cart.,Suburban,occasional,low,shopper,2025-05-25 15:34:25,39.73
+Training shoppers on the cart is time-consuming.,Downtown,weekly,low,employee,2025-06-18 15:34:25,59.68
+I didn’t expect the cart to show me recipes mid-aisle.,Rural,occasional,medium,shopper,2025-06-03 15:34:25,56.7
+I really liked how it helped me plan meals on the fly.,Rural,daily,medium,shopper,2025-06-18 15:34:25,245.94
+I didn’t expect the cart to speak to me.,Suburban,daily,medium,shopper,2025-05-24 15:34:25,85.61
+I really liked how it helped me find deals.,Airport,weekly,medium,shopper,2025-06-03 15:34:25,120.65
+It worse compared to a normal cart.,Downtown,daily,medium,shopper,2025-06-11 15:34:25,152.02
+We’ve had repeated complaints about connectivity.,Airport,occasional,high,store_manager,2025-06-09 15:34:25,213.12
+It’s been polarizing with our regulars.,University District,occasional,low,store_manager,2025-06-05 15:34:25,196.77
+We’ve had repeated complaints about recipe accuracy.,Suburban,weekly,medium,store_manager,2025-05-22 15:34:25,237.17
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Downtown,occasional,high,store_manager,2025-06-01 15:34:25,214.91
+It worse compared to a normal cart.,Airport,weekly,high,shopper,2025-06-05 15:34:25,161.57
+Customers often mention that the cart is confusing for older shoppers.,Downtown,daily,low,store_manager,2025-05-24 15:34:25,245.87
+I didn’t expect the cart to speak to me.,Downtown,daily,low,shopper,2025-05-25 15:34:25,127.76
+"Some shoppers love checkout skipping, others dislike the voice prompts.",University District,occasional,low,store_manager,2025-06-05 15:34:25,174.36
+Employees report that setup is time-consuming.,Rural,weekly,high,store_manager,2025-06-15 15:34:25,49.66
+"I usually shop occasionally, and this made it more complicated.",Airport,daily,low,shopper,2025-05-26 15:34:25,173.5
+Setup and maintenance is smooth.,Rural,weekly,low,employee,2025-05-27 15:34:25,49.93
+We’ve had repeated complaints about recipe accuracy.,Downtown,weekly,medium,store_manager,2025-05-22 15:34:25,104.09
+It about the same compared to a normal cart.,Rural,weekly,high,shopper,2025-05-22 15:34:25,49.46
+Setup and maintenance is smooth.,Downtown,occasional,low,employee,2025-05-31 15:34:25,158.32
+"It works well when users are tech-savvy, but fails if the scanner jams.",University District,occasional,medium,employee,2025-05-26 15:34:25,199.64
+We're seeing increased basket size since introducing the carts.,Downtown,daily,medium,store_manager,2025-05-20 15:34:25,168.81
+Customers often mention that the cart is confusing for older shoppers.,Suburban,occasional,low,store_manager,2025-06-08 15:34:25,234.96
+Setup and maintenance is a hassle.,Downtown,daily,medium,employee,2025-06-06 15:34:25,173.32
+It about the same compared to a normal cart.,Airport,weekly,high,shopper,2025-06-04 15:34:25,160.44
+I didn’t expect the cart to freeze unexpectedly.,University District,weekly,high,shopper,2025-06-15 15:34:25,84.54
+We’ve had repeated complaints about recipe accuracy.,Rural,occasional,high,store_manager,2025-06-13 15:34:25,237.08
+It better compared to a normal cart.,Downtown,daily,high,shopper,2025-05-24 15:34:25,226.49
+It’s been a hit with our regulars.,University District,weekly,medium,store_manager,2025-06-06 15:34:25,222.95
+"Personally, I think it's overcomplicated for groceries.",Rural,occasional,low,employee,2025-06-11 15:34:25,24.96
+It’s been slow to catch on with our regulars.,University District,daily,medium,store_manager,2025-06-16 15:34:25,110.87
+I didn’t expect the cart to speak to me.,University District,weekly,high,shopper,2025-06-08 15:34:25,144.62
+"Using the cart felt surprisingly natural, especially with the voice assistant.",Rural,occasional,medium,shopper,2025-06-09 15:34:25,218.3
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Downtown,weekly,high,store_manager,2025-06-12 15:34:25,10.96
+Most common complaint I hear is loud notifications.,Rural,occasional,high,employee,2025-05-31 15:34:25,185.8
+Setup and maintenance is smooth.,University District,daily,high,employee,2025-06-05 15:34:25,125.16
+"Using the cart felt awkward, especially with the voice assistant.",University District,occasional,high,shopper,2025-06-14 15:34:25,213.16
+Most common complaint I hear is loud notifications.,Suburban,daily,high,employee,2025-06-10 15:34:25,199.94
+"Personally, I think it helps customers feel smarter.",Airport,daily,medium,employee,2025-06-17 15:34:25,79.54
+We’ve had repeated complaints about connectivity.,University District,weekly,high,store_manager,2025-06-18 15:34:25,51.41
+"Personally, I think it helps customers feel smarter.",Downtown,weekly,high,employee,2025-05-26 15:34:25,183.73
+Setup and maintenance is smooth.,University District,occasional,high,employee,2025-06-01 15:34:25,32.82
+We’ve had repeated complaints about cart syncing.,Airport,daily,medium,store_manager,2025-06-18 15:34:25,45.38
+Most common complaint I hear is lack of clarity.,Rural,daily,medium,employee,2025-05-28 15:34:25,59.37
+"I usually shop weekly, and this made it more complicated.",University District,daily,low,shopper,2025-06-13 15:34:25,53.27
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Airport,weekly,low,store_manager,2025-06-09 15:34:25,129.03
+I really liked how it helped me find deals.,Downtown,occasional,medium,shopper,2025-05-25 15:34:25,182.58
+I really liked how it helped me track my budget.,University District,daily,low,shopper,2025-05-26 15:34:25,175.0
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Rural,weekly,high,store_manager,2025-06-10 15:34:25,157.43
+We’ve had repeated complaints about connectivity.,Downtown,occasional,medium,store_manager,2025-06-02 15:34:25,43.18
+I've had to assist customers when shoppers ignore the prompts.,University District,daily,high,employee,2025-06-05 15:34:25,97.37
+Customers often mention that the cart is confusing for older shoppers.,Downtown,weekly,high,store_manager,2025-06-01 15:34:25,247.25
+Customers often mention that the cart is confusing for older shoppers.,Rural,weekly,low,store_manager,2025-06-12 15:34:25,240.28
+It about the same compared to a normal cart.,Rural,occasional,low,shopper,2025-05-30 15:34:25,248.99
+"I usually shop occasionally, and this made it more complicated.",Downtown,daily,medium,shopper,2025-05-25 15:34:25,80.21
+Training shoppers on the cart is time-consuming.,Rural,daily,high,employee,2025-05-29 15:34:25,189.54
+I really liked how it helped me plan meals on the fly.,Suburban,daily,low,shopper,2025-06-11 15:34:25,81.13
+It about the same compared to a normal cart.,Downtown,daily,medium,shopper,2025-06-10 15:34:25,188.67
+I've had to assist customers when shoppers ignore the prompts.,Airport,daily,medium,employee,2025-06-09 15:34:25,240.37
+It’s been a hit with our regulars.,Airport,occasional,high,store_manager,2025-05-20 15:34:25,131.14
+It’s been slow to catch on with our regulars.,Rural,weekly,medium,store_manager,2025-05-23 15:34:25,203.71
+"I usually shop weekly, and this made it faster.",Downtown,daily,low,shopper,2025-05-26 15:34:25,145.71
+We're seeing increased basket size since introducing the carts.,Suburban,daily,medium,store_manager,2025-06-05 15:34:25,169.61
+"Personally, I think it helps customers feel smarter.",Downtown,occasional,medium,employee,2025-06-06 15:34:25,156.63
+Employees report that setup is time-consuming.,Downtown,occasional,medium,store_manager,2025-06-13 15:34:25,169.22
+I've had to assist customers when the cart freezes.,University District,daily,high,employee,2025-05-20 15:34:25,204.37
+We’ve had repeated complaints about recipe accuracy.,University District,weekly,low,store_manager,2025-06-02 15:34:25,116.58
+Most common complaint I hear is lack of clarity.,Airport,occasional,low,employee,2025-05-30 15:34:25,149.14
+It worse compared to a normal cart.,Airport,occasional,medium,shopper,2025-06-06 15:34:25,167.78
+I've had to assist customers when shoppers ignore the prompts.,Airport,weekly,medium,employee,2025-06-07 15:34:25,81.04
+We're seeing increased shopping speed since introducing the carts.,Rural,daily,high,store_manager,2025-06-01 15:34:25,65.74
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Airport,daily,low,store_manager,2025-05-28 15:34:25,39.81
+Most common complaint I hear is loud notifications.,Airport,weekly,low,employee,2025-05-23 15:34:25,26.28
+It worse compared to a normal cart.,Rural,weekly,high,shopper,2025-05-22 15:34:25,85.43
+I didn’t expect the cart to freeze unexpectedly.,Rural,occasional,high,shopper,2025-06-14 15:34:25,154.79
+It’s been slow to catch on with our regulars.,Downtown,weekly,medium,store_manager,2025-05-22 15:34:25,93.13
+I've had to assist customers when shoppers ignore the prompts.,Downtown,weekly,low,employee,2025-06-09 15:34:25,84.27
+"Some shoppers love checkout skipping, others dislike automatic scanning.",Downtown,daily,high,store_manager,2025-05-27 15:34:25,223.05
+Customers often mention that the cart helps people discover new items.,Suburban,occasional,high,store_manager,2025-05-31 15:34:25,236.18
+It’s been a hit with our regulars.,University District,occasional,high,store_manager,2025-05-31 15:34:25,170.62
+Most common complaint I hear is lack of clarity.,Downtown,occasional,medium,employee,2025-06-06 15:34:25,156.27
+"It works well when users are tech-savvy, but fails if the scanner jams.",University District,occasional,low,employee,2025-06-15 15:34:25,108.41
+We're seeing increased basket size since introducing the carts.,University District,weekly,high,store_manager,2025-06-07 15:34:25,61.26
+I didn’t expect the cart to speak to me.,Airport,weekly,high,shopper,2025-05-21 15:34:25,125.04
+We’ve had repeated complaints about connectivity.,Airport,daily,high,store_manager,2025-06-11 15:34:25,77.82
+Setup and maintenance is a hassle.,Airport,occasional,low,employee,2025-06-12 15:34:25,15.51
+We’ve had repeated complaints about recipe accuracy.,Suburban,weekly,high,store_manager,2025-06-18 15:34:25,246.84
+Customers often mention that the cart is confusing for older shoppers.,Airport,occasional,high,store_manager,2025-05-22 15:34:25,45.44
+Setup and maintenance is manageable.,Airport,weekly,low,employee,2025-06-04 15:34:25,218.16
+Training shoppers on the cart is frustrating at peak hours.,University District,weekly,medium,employee,2025-06-17 15:34:25,210.29
+It worse compared to a normal cart.,University District,weekly,medium,shopper,2025-05-26 15:34:25,71.29
+We’ve had repeated complaints about recipe accuracy.,University District,weekly,low,store_manager,2025-06-11 15:34:25,166.61
+It better compared to a normal cart.,Downtown,weekly,medium,shopper,2025-05-27 15:34:25,201.54
+Setup and maintenance is a hassle.,Downtown,occasional,medium,employee,2025-06-06 15:34:25,169.27
+Most common complaint I hear is lack of clarity.,Airport,occasional,low,employee,2025-05-20 15:34:25,12.55
+Training shoppers on the cart is time-consuming.,University District,daily,low,employee,2025-05-30 15:34:25,10.18
+Training shoppers on the cart is time-consuming.,University District,daily,medium,employee,2025-06-07 15:34:25,56.83
+It’s been slow to catch on with our regulars.,Downtown,weekly,low,store_manager,2025-05-25 15:34:25,235.16
+"Personally, I think it's overcomplicated for groceries.",Downtown,occasional,medium,employee,2025-05-25 15:34:25,152.71
+I didn’t expect the cart to freeze unexpectedly.,University District,weekly,medium,shopper,2025-05-28 15:34:25,24.38
+"Using the cart felt convenient, especially with real-time budgeting.",Airport,occasional,low,shopper,2025-06-12 15:34:25,215.13
+It was frustrating when the cart lost Wi-Fi.,Airport,weekly,low,shopper,2025-06-11 15:34:25,134.34
+We're seeing increased shopping speed since introducing the carts.,University District,occasional,low,store_manager,2025-05-26 15:34:25,199.74
+Employees report that setup is time-consuming.,University District,daily,low,store_manager,2025-06-11 15:34:25,155.57
+Employees report that setup is time-consuming.,Suburban,weekly,low,store_manager,2025-05-21 15:34:25,187.5
+Training shoppers on the cart is frustrating at peak hours.,Downtown,daily,low,employee,2025-06-03 15:34:25,224.87
+We’ve had repeated complaints about connectivity.,University District,occasional,medium,store_manager,2025-06-03 15:34:25,231.54
+Most common complaint I hear is lack of clarity.,Downtown,daily,high,employee,2025-06-09 15:34:25,58.81
+We're seeing increased basket size since introducing the carts.,Suburban,occasional,high,store_manager,2025-05-28 15:34:25,196.28
+Customers often mention that the cart helps people discover new items.,Suburban,daily,low,store_manager,2025-06-16 15:34:25,130.05
+I didn’t expect the cart to speak to me.,Downtown,occasional,low,shopper,2025-06-05 15:34:25,245.42
+Setup and maintenance is manageable.,Rural,weekly,low,employee,2025-05-30 15:34:25,45.56
+"Personally, I think it's overcomplicated for groceries.",Airport,daily,medium,employee,2025-06-10 15:34:25,213.18
+"Personally, I think it helps customers feel smarter.",University District,daily,low,employee,2025-05-31 15:34:25,154.74
+"Personally, I think it's overcomplicated for groceries.",Airport,occasional,high,employee,2025-05-31 15:34:25,211.95
+We’ve had repeated complaints about cart syncing.,Airport,daily,medium,store_manager,2025-06-04 15:34:25,222.29
+Customers often mention that the cart helps people discover new items.,Suburban,weekly,low,store_manager,2025-06-12 15:34:25,196.27
+"It works well when the signal is strong, but fails if the screen lags.",Downtown,weekly,high,employee,2025-06-18 15:34:25,159.55
+It worse compared to a normal cart.,Suburban,occasional,high,shopper,2025-05-25 15:34:25,243.44
+"It works well when the signal is strong, but fails if the scanner jams.",Rural,weekly,medium,employee,2025-06-10 15:34:25,196.09
+Most common complaint I hear is lack of clarity.,Downtown,daily,medium,employee,2025-06-08 15:34:25,83.8
+We're seeing increased basket size since introducing the carts.,Rural,daily,low,store_manager,2025-05-30 15:34:25,185.49
+Most common complaint I hear is loud notifications.,Rural,weekly,high,employee,2025-06-01 15:34:25,201.62
+It’s been a hit with our regulars.,Suburban,daily,low,store_manager,2025-05-21 15:34:25,201.61
+We’ve had repeated complaints about recipe accuracy.,Downtown,occasional,low,store_manager,2025-06-06 15:34:25,142.48
+It was frustrating when the cart kept beeping unnecessarily.,Airport,daily,medium,shopper,2025-06-01 15:34:25,241.86
+Training shoppers on the cart is time-consuming.,Suburban,daily,medium,employee,2025-06-14 15:34:25,185.2
+Setup and maintenance is smooth.,Rural,weekly,medium,employee,2025-05-31 15:34:25,166.19
+I've had to assist customers when the cart freezes.,Suburban,occasional,low,employee,2025-05-27 15:34:25,73.91
+It was frustrating when the cart kept beeping unnecessarily.,Rural,daily,low,shopper,2025-05-28 15:34:25,118.08
+Training shoppers on the cart is frustrating at peak hours.,Rural,weekly,high,employee,2025-06-13 15:34:25,89.78
+Employees report that most people need help at first.,Rural,weekly,low,store_manager,2025-05-23 15:34:25,23.48
+"I usually shop every day, and this made it faster.",University District,weekly,medium,shopper,2025-05-20 15:34:25,162.01
+Most common complaint I hear is loud notifications.,University District,daily,medium,employee,2025-05-24 15:34:25,170.7
+I've had to assist customers when the cart freezes.,University District,weekly,high,employee,2025-06-15 15:34:25,110.05
+Training shoppers on the cart is frustrating at peak hours.,Suburban,weekly,high,employee,2025-05-20 15:34:25,148.36
+I didn’t expect the cart to show me recipes mid-aisle.,University District,daily,high,shopper,2025-06-06 15:34:25,226.11
+It was frustrating when the cart gave wrong suggestions.,Downtown,weekly,high,shopper,2025-05-20 15:34:25,229.34
+We're seeing increased basket size since introducing the carts.,University District,weekly,low,store_manager,2025-05-30 15:34:25,201.72
+Employees report that most people need help at first.,Suburban,weekly,medium,store_manager,2025-06-14 15:34:25,97.75
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Downtown,weekly,medium,store_manager,2025-05-29 15:34:25,183.2
+It worse compared to a normal cart.,Suburban,daily,high,shopper,2025-05-26 15:34:25,18.16
+"I usually shop weekly, and this made it kind of fun.",University District,weekly,high,shopper,2025-05-27 15:34:25,62.8
+Training shoppers on the cart is time-consuming.,Rural,weekly,medium,employee,2025-05-23 15:34:25,170.34
+Most common complaint I hear is lack of clarity.,University District,daily,medium,employee,2025-05-22 15:34:25,97.42
+Most common complaint I hear is loud notifications.,Rural,daily,high,employee,2025-05-23 15:34:25,56.98
+I really liked how it helped me track my budget.,Rural,weekly,low,shopper,2025-06-13 15:34:25,169.03
+It was frustrating when the cart lost Wi-Fi.,Airport,daily,medium,shopper,2025-06-05 15:34:25,126.0
+Most common complaint I hear is lack of clarity.,University District,weekly,high,employee,2025-05-23 15:34:25,149.54
+We’ve had repeated complaints about recipe accuracy.,University District,occasional,low,store_manager,2025-06-14 15:34:25,139.47
+"Using the cart felt surprisingly natural, especially with the voice assistant.",Suburban,daily,high,shopper,2025-06-05 15:34:25,118.32
+Setup and maintenance is smooth.,Downtown,occasional,medium,employee,2025-05-27 15:34:25,52.11
+Training shoppers on the cart is time-consuming.,Suburban,weekly,medium,employee,2025-05-31 15:34:25,232.24
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Rural,daily,medium,store_manager,2025-06-07 15:34:25,171.02
+It’s been polarizing with our regulars.,Rural,occasional,medium,store_manager,2025-05-30 15:34:25,184.45
+We’ve had repeated complaints about cart syncing.,Airport,daily,high,store_manager,2025-06-16 15:34:25,78.29
+Training shoppers on the cart is frustrating at peak hours.,University District,occasional,low,employee,2025-06-15 15:34:25,242.44
+We’ve had repeated complaints about cart syncing.,Downtown,occasional,low,store_manager,2025-05-25 15:34:25,179.63
+We're seeing increased shopping speed since introducing the carts.,Rural,occasional,medium,store_manager,2025-05-22 15:34:25,245.62
+"It works well when the signal is strong, but fails if the screen lags.",Rural,occasional,high,employee,2025-06-09 15:34:25,20.08
+It was frustrating when the cart kept beeping unnecessarily.,Downtown,occasional,high,shopper,2025-06-11 15:34:25,94.16
+We're seeing increased engagement since introducing the carts.,Suburban,weekly,medium,store_manager,2025-05-21 15:34:25,88.49
+We’ve had repeated complaints about cart syncing.,Rural,daily,medium,store_manager,2025-06-05 15:34:25,83.65
+Customers often mention that the cart is confusing for older shoppers.,Downtown,occasional,high,store_manager,2025-06-07 15:34:25,211.85
+"Using the cart felt surprisingly natural, especially with the scanner.",University District,daily,medium,shopper,2025-06-09 15:34:25,22.22
+"Using the cart felt surprisingly natural, especially with real-time budgeting.",Airport,daily,low,shopper,2025-05-23 15:34:25,19.75
+I didn’t expect the cart to speak to me.,Airport,daily,low,shopper,2025-06-06 15:34:25,55.56
+Setup and maintenance is manageable.,Suburban,daily,medium,employee,2025-06-06 15:34:25,123.53
+I really liked how it helped me plan meals on the fly.,Suburban,daily,low,shopper,2025-06-05 15:34:25,120.15
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Downtown,daily,medium,store_manager,2025-05-29 15:34:25,169.87
+Employees report that setup is time-consuming.,Downtown,weekly,medium,store_manager,2025-05-23 15:34:25,108.39
+Customers often mention that the cart helps people discover new items.,University District,occasional,high,store_manager,2025-06-08 15:34:25,122.98
+Setup and maintenance is manageable.,Rural,occasional,high,employee,2025-06-13 15:34:25,120.52
+Setup and maintenance is a hassle.,Downtown,occasional,high,employee,2025-06-09 15:34:25,231.42
+Customers often mention that the cart is confusing for older shoppers.,Airport,occasional,medium,store_manager,2025-05-20 15:34:25,188.64
+I've had to assist customers when the cart freezes.,Downtown,occasional,high,employee,2025-06-08 15:34:25,90.38
+I've had to assist customers when shoppers ignore the prompts.,Airport,weekly,high,employee,2025-05-30 15:34:25,77.78
+"It works well when the signal is strong, but fails if the screen lags.",University District,daily,medium,employee,2025-05-20 15:34:25,145.24
+"Using the cart felt surprisingly natural, especially with real-time budgeting.",University District,weekly,high,shopper,2025-05-26 15:34:25,46.78
+"Some shoppers love checkout skipping, others dislike automatic scanning.",Downtown,daily,medium,store_manager,2025-05-31 15:34:25,193.52
+I've had to assist customers when shoppers ignore the prompts.,Rural,weekly,medium,employee,2025-05-29 15:34:25,62.56
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Suburban,daily,low,store_manager,2025-05-23 15:34:25,164.43
+"It works well when the signal is strong, but fails if the scanner jams.",Downtown,daily,medium,employee,2025-05-25 15:34:25,147.91
+I've had to assist customers when shoppers ignore the prompts.,University District,daily,high,employee,2025-06-09 15:34:25,60.65
+Customers often mention that the cart is confusing for older shoppers.,Downtown,daily,low,store_manager,2025-06-08 15:34:25,214.13
+Training shoppers on the cart is frustrating at peak hours.,Downtown,weekly,low,employee,2025-06-09 15:34:25,73.78
+It was frustrating when the cart lost Wi-Fi.,Rural,weekly,medium,shopper,2025-06-13 15:34:25,149.22
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Downtown,weekly,low,store_manager,2025-05-22 15:34:25,47.65
+"Using the cart felt convenient, especially with the voice assistant.",Suburban,daily,high,shopper,2025-05-31 15:34:25,242.96
+I didn’t expect the cart to show me recipes mid-aisle.,Rural,occasional,medium,shopper,2025-06-07 15:34:25,63.16
+"Using the cart felt awkward, especially with real-time budgeting.",Rural,weekly,medium,shopper,2025-06-17 15:34:25,155.78
+We're seeing increased shopping speed since introducing the carts.,University District,weekly,medium,store_manager,2025-05-22 15:34:25,71.33
+Training shoppers on the cart is time-consuming.,Rural,occasional,low,employee,2025-05-24 15:34:25,139.65
+Employees report that most people need help at first.,Rural,daily,low,store_manager,2025-05-31 15:34:25,220.44
+"It works well when users are tech-savvy, but fails if the screen lags.",Airport,weekly,high,employee,2025-05-24 15:34:25,11.44
+"I usually shop occasionally, and this made it faster.",Airport,occasional,high,shopper,2025-06-10 15:34:25,67.53
+"Personally, I think it's overcomplicated for groceries.",University District,occasional,high,employee,2025-06-14 15:34:25,75.36
+"It works well when the signal is strong, but fails if the scanner jams.",Downtown,weekly,medium,employee,2025-06-06 15:34:25,47.48
+"Some shoppers love checkout skipping, others dislike automatic scanning.",Rural,weekly,low,store_manager,2025-05-27 15:34:25,45.2
+"Using the cart felt convenient, especially with real-time budgeting.",Downtown,weekly,medium,shopper,2025-05-29 15:34:25,87.34
+"Using the cart felt surprisingly natural, especially with the scanner.",Suburban,daily,low,shopper,2025-06-05 15:34:25,44.15
+It worse compared to a normal cart.,Airport,occasional,medium,shopper,2025-06-06 15:34:25,192.8
+I really liked how it helped me track my budget.,Airport,weekly,high,shopper,2025-06-04 15:34:25,92.43
+I've had to assist customers when the cart freezes.,Suburban,daily,medium,employee,2025-05-31 15:34:25,37.15
+We're seeing increased basket size since introducing the carts.,Suburban,occasional,low,store_manager,2025-06-07 15:34:25,121.39
+I didn’t expect the cart to speak to me.,Downtown,weekly,low,shopper,2025-06-05 15:34:25,173.21
+I really liked how it helped me find deals.,Suburban,weekly,low,shopper,2025-05-26 15:34:25,127.07
+Setup and maintenance is smooth.,Suburban,occasional,high,employee,2025-06-01 15:34:25,171.54
+Setup and maintenance is smooth.,Downtown,occasional,medium,employee,2025-05-22 15:34:25,64.75
+Customers often mention that the cart is confusing for older shoppers.,Suburban,occasional,low,store_manager,2025-06-06 15:34:25,220.34
+Customers often mention that the cart helps people discover new items.,Suburban,occasional,medium,store_manager,2025-05-22 15:34:25,49.78
+It was frustrating when the cart lost Wi-Fi.,Airport,daily,low,shopper,2025-05-31 15:34:25,237.59
+We're seeing increased engagement since introducing the carts.,Airport,weekly,low,store_manager,2025-06-02 15:34:25,208.16
+We're seeing increased engagement since introducing the carts.,Downtown,weekly,low,store_manager,2025-06-02 15:34:25,53.43
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Rural,weekly,low,store_manager,2025-05-23 15:34:25,27.87
+I didn’t expect the cart to speak to me.,Suburban,daily,high,shopper,2025-06-15 15:34:25,119.26
+"It works well when users are tech-savvy, but fails if the scanner jams.",Rural,weekly,low,employee,2025-06-18 15:34:25,194.69
+"It works well when the signal is strong, but fails if the screen lags.",Downtown,occasional,high,employee,2025-06-08 15:34:25,187.61
+"Personally, I think it's overcomplicated for groceries.",Airport,weekly,high,employee,2025-06-10 15:34:25,145.52
+Most common complaint I hear is loud notifications.,Airport,occasional,high,employee,2025-06-02 15:34:25,67.45
+It’s been slow to catch on with our regulars.,University District,weekly,high,store_manager,2025-05-24 15:34:25,131.76
+Customers often mention that the cart is confusing for older shoppers.,Rural,daily,medium,store_manager,2025-06-14 15:34:25,123.48
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Suburban,occasional,high,store_manager,2025-06-14 15:34:25,129.85
+It better compared to a normal cart.,University District,daily,medium,shopper,2025-05-26 15:34:25,128.2
+It’s been polarizing with our regulars.,University District,daily,high,store_manager,2025-05-22 15:34:25,161.72
+It better compared to a normal cart.,Suburban,weekly,low,shopper,2025-06-07 15:34:25,96.27
+Setup and maintenance is smooth.,Rural,daily,medium,employee,2025-06-18 15:34:25,169.62
+"I usually shop weekly, and this made it kind of fun.",University District,weekly,medium,shopper,2025-05-28 15:34:25,30.32
+I didn’t expect the cart to speak to me.,Suburban,daily,high,shopper,2025-06-18 15:34:25,207.61
+We're seeing increased engagement since introducing the carts.,Downtown,daily,low,store_manager,2025-05-24 15:34:25,66.9
+We're seeing increased engagement since introducing the carts.,Airport,weekly,low,store_manager,2025-06-08 15:34:25,137.28
+I've had to assist customers when the cart freezes.,University District,daily,low,employee,2025-06-14 15:34:25,140.89
+We’ve had repeated complaints about recipe accuracy.,University District,weekly,medium,store_manager,2025-05-26 15:34:25,189.5
+I didn’t expect the cart to show me recipes mid-aisle.,Rural,weekly,low,shopper,2025-05-25 15:34:25,218.8
+Training shoppers on the cart is time-consuming.,Suburban,occasional,medium,employee,2025-06-14 15:34:25,219.34
+"I usually shop occasionally, and this made it more complicated.",Rural,daily,medium,shopper,2025-06-06 15:34:25,183.45
+Customers often mention that the cart helps people discover new items.,Downtown,occasional,medium,store_manager,2025-06-01 15:34:25,201.72
+"It works well when the signal is strong, but fails if the scanner jams.",Airport,occasional,high,employee,2025-06-02 15:34:25,66.97
+Customers often mention that the cart is confusing for older shoppers.,University District,occasional,low,store_manager,2025-06-04 15:34:25,191.02
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",University District,weekly,medium,store_manager,2025-05-24 15:34:25,165.07
+Employees report that most people need help at first.,Airport,weekly,low,store_manager,2025-05-30 15:34:25,150.04
+"Using the cart felt convenient, especially with real-time budgeting.",Suburban,daily,low,shopper,2025-05-30 15:34:25,236.25
+Most common complaint I hear is lack of clarity.,Suburban,occasional,high,employee,2025-05-31 15:34:25,103.63
+It’s been slow to catch on with our regulars.,Suburban,occasional,high,store_manager,2025-05-21 15:34:25,15.65
+"It works well when the signal is strong, but fails if the screen lags.",Downtown,weekly,medium,employee,2025-06-18 15:34:25,202.28
+I didn’t expect the cart to show me recipes mid-aisle.,Suburban,occasional,high,shopper,2025-06-05 15:34:25,20.73
+We're seeing increased shopping speed since introducing the carts.,Rural,occasional,high,store_manager,2025-05-24 15:34:25,134.02
+I really liked how it helped me find deals.,University District,occasional,medium,shopper,2025-06-01 15:34:25,22.66
+I really liked how it helped me track my budget.,Suburban,daily,high,shopper,2025-05-24 15:34:25,84.25
+I didn’t expect the cart to freeze unexpectedly.,Rural,occasional,low,shopper,2025-05-24 15:34:25,134.77
+I really liked how it helped me track my budget.,University District,daily,medium,shopper,2025-06-13 15:34:25,113.23
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Rural,weekly,high,store_manager,2025-05-28 15:34:25,25.16
+I've had to assist customers when shoppers ignore the prompts.,University District,occasional,medium,employee,2025-06-09 15:34:25,210.15
+"I usually shop every day, and this made it kind of fun.",Suburban,occasional,medium,shopper,2025-06-05 15:34:25,168.6
+Training shoppers on the cart is time-consuming.,Airport,daily,medium,employee,2025-06-07 15:34:25,22.17
+"Personally, I think it helps customers feel smarter.",Airport,occasional,low,employee,2025-06-16 15:34:25,201.71
+Setup and maintenance is a hassle.,Airport,occasional,medium,employee,2025-05-25 15:34:25,88.76
+Setup and maintenance is manageable.,Suburban,weekly,high,employee,2025-06-11 15:34:25,103.16
+Customers often mention that the cart is confusing for older shoppers.,University District,occasional,low,store_manager,2025-05-21 15:34:25,12.15
+Most common complaint I hear is loud notifications.,Airport,occasional,medium,employee,2025-06-07 15:34:25,151.8
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Airport,daily,high,store_manager,2025-06-02 15:34:25,159.55
+It was frustrating when the cart lost Wi-Fi.,Rural,weekly,medium,shopper,2025-06-16 15:34:25,183.97
+"Using the cart felt convenient, especially with the scanner.",Suburban,occasional,low,shopper,2025-06-17 15:34:25,82.94
+I didn’t expect the cart to show me recipes mid-aisle.,Rural,weekly,low,shopper,2025-06-02 15:34:25,227.11
+Training shoppers on the cart is frustrating at peak hours.,Downtown,occasional,low,employee,2025-05-29 15:34:25,95.73
+It better compared to a normal cart.,University District,weekly,low,shopper,2025-05-24 15:34:25,162.39
+"It works well when the signal is strong, but fails if the screen lags.",Rural,daily,low,employee,2025-05-28 15:34:25,228.83
+It’s been slow to catch on with our regulars.,Downtown,weekly,medium,store_manager,2025-06-11 15:34:25,107.96
+I've had to assist customers when shoppers ignore the prompts.,Suburban,occasional,medium,employee,2025-06-01 15:34:25,215.06
+"Using the cart felt awkward, especially with the voice assistant.",University District,occasional,low,shopper,2025-06-17 15:34:25,127.54
+Setup and maintenance is manageable.,Suburban,weekly,high,employee,2025-06-02 15:34:25,73.98
+Customers often mention that the cart is confusing for older shoppers.,Rural,weekly,low,store_manager,2025-06-11 15:34:25,239.63
+It was frustrating when the cart lost Wi-Fi.,Suburban,weekly,low,shopper,2025-05-24 15:34:25,152.21
+Employees report that setup is time-consuming.,Airport,occasional,low,store_manager,2025-06-06 15:34:25,204.68
+Employees report that most people need help at first.,Rural,weekly,high,store_manager,2025-05-24 15:34:25,147.48
+We’ve had repeated complaints about connectivity.,Airport,occasional,medium,store_manager,2025-06-03 15:34:25,31.2
+"Personally, I think it's overcomplicated for groceries.",University District,daily,low,employee,2025-06-15 15:34:25,114.79
+"Some shoppers love checkout skipping, others dislike automatic scanning.",Airport,occasional,low,store_manager,2025-06-10 15:34:25,120.37
+I didn’t expect the cart to freeze unexpectedly.,University District,weekly,low,shopper,2025-06-14 15:34:25,222.64
+Customers often mention that the cart helps people discover new items.,Airport,weekly,low,store_manager,2025-05-31 15:34:25,33.72
+I really liked how it helped me plan meals on the fly.,Rural,weekly,low,shopper,2025-06-12 15:34:25,131.77
+It’s been a hit with our regulars.,Rural,occasional,medium,store_manager,2025-05-30 15:34:25,40.16
+"Using the cart felt surprisingly natural, especially with real-time budgeting.",University District,daily,low,shopper,2025-05-21 15:34:25,210.39
+I didn’t expect the cart to freeze unexpectedly.,Airport,daily,medium,shopper,2025-05-29 15:34:25,215.67
+Setup and maintenance is a hassle.,Downtown,daily,high,employee,2025-06-02 15:34:25,208.37
+Training shoppers on the cart is time-consuming.,Suburban,occasional,low,employee,2025-06-08 15:34:25,224.08
+"It works well when the signal is strong, but fails if the scanner jams.",Suburban,daily,medium,employee,2025-06-13 15:34:25,110.49
+I didn’t expect the cart to freeze unexpectedly.,Downtown,daily,high,shopper,2025-05-29 15:34:25,190.38
+Training shoppers on the cart is time-consuming.,Downtown,weekly,high,employee,2025-05-26 15:34:25,98.62
+Customers often mention that the cart is confusing for older shoppers.,Airport,daily,high,store_manager,2025-05-22 15:34:25,192.61
+I've had to assist customers when shoppers ignore the prompts.,Downtown,daily,medium,employee,2025-06-18 15:34:25,116.18
+Training shoppers on the cart is pretty easy.,Suburban,occasional,medium,employee,2025-06-02 15:34:25,120.29
+I've had to assist customers when shoppers ignore the prompts.,Suburban,daily,low,employee,2025-05-22 15:34:25,149.01
+I've had to assist customers when the cart freezes.,Suburban,weekly,medium,employee,2025-05-31 15:34:25,190.12
+Employees report that most people need help at first.,Downtown,weekly,low,store_manager,2025-06-05 15:34:25,83.62
+Training shoppers on the cart is pretty easy.,Rural,daily,low,employee,2025-05-24 15:34:25,20.6
+It worse compared to a normal cart.,University District,weekly,medium,shopper,2025-05-23 15:34:25,143.04
+It’s been a hit with our regulars.,Airport,daily,medium,store_manager,2025-06-15 15:34:25,226.81
+Employees report that most people need help at first.,Downtown,daily,medium,store_manager,2025-06-06 15:34:25,165.07
+"Personally, I think it's overcomplicated for groceries.",University District,weekly,low,employee,2025-06-11 15:34:25,47.18
+Employees report that most people need help at first.,Airport,daily,medium,store_manager,2025-05-27 15:34:25,54.05
+I've had to assist customers when the cart freezes.,University District,occasional,high,employee,2025-06-06 15:34:25,95.4
+I didn’t expect the cart to freeze unexpectedly.,Rural,occasional,low,shopper,2025-05-21 15:34:25,196.54
+Setup and maintenance is manageable.,Airport,weekly,low,employee,2025-06-17 15:34:25,91.23
+Training shoppers on the cart is pretty easy.,Airport,daily,high,employee,2025-06-17 15:34:25,123.9
+Setup and maintenance is manageable.,Downtown,weekly,medium,employee,2025-05-30 15:34:25,152.24
+"I usually shop weekly, and this made it kind of fun.",Suburban,daily,low,shopper,2025-06-17 15:34:25,156.25
+It better compared to a normal cart.,Suburban,weekly,high,shopper,2025-05-24 15:34:25,91.28
+"It works well when users are tech-savvy, but fails if the scanner jams.",Downtown,weekly,high,employee,2025-05-31 15:34:25,71.7
+"I usually shop occasionally, and this made it kind of fun.",Airport,occasional,low,shopper,2025-05-27 15:34:25,79.7
+"It works well when users are tech-savvy, but fails if the screen lags.",Rural,occasional,high,employee,2025-06-15 15:34:25,176.72
+Employees report that setup is time-consuming.,University District,daily,high,store_manager,2025-05-27 15:34:25,52.51
+It about the same compared to a normal cart.,Airport,weekly,medium,shopper,2025-06-15 15:34:25,96.93
+"Personally, I think it's overcomplicated for groceries.",University District,daily,medium,employee,2025-05-24 15:34:25,110.6
+Setup and maintenance is smooth.,Suburban,occasional,medium,employee,2025-06-05 15:34:25,139.99
+I didn’t expect the cart to show me recipes mid-aisle.,Suburban,occasional,high,shopper,2025-06-09 15:34:25,213.46
+It’s been polarizing with our regulars.,University District,daily,high,store_manager,2025-06-07 15:34:25,123.61
+Training shoppers on the cart is pretty easy.,Rural,occasional,medium,employee,2025-06-18 15:34:25,248.19
+I really liked how it helped me find deals.,Rural,occasional,low,shopper,2025-06-02 15:34:25,111.44
+"I usually shop every day, and this made it faster.",Rural,daily,medium,shopper,2025-06-02 15:34:25,123.3
+I've had to assist customers when the cart freezes.,Airport,occasional,medium,employee,2025-06-03 15:34:25,195.84
+I've had to assist customers when the cart freezes.,Downtown,occasional,high,employee,2025-06-16 15:34:25,202.67
+We're seeing increased engagement since introducing the carts.,Rural,weekly,medium,store_manager,2025-06-16 15:34:25,171.08
+Setup and maintenance is manageable.,Downtown,weekly,low,employee,2025-05-23 15:34:25,156.58
+"Personally, I think it's overcomplicated for groceries.",Airport,occasional,high,employee,2025-06-06 15:34:25,61.1
+We're seeing increased engagement since introducing the carts.,Downtown,occasional,medium,store_manager,2025-06-18 15:34:25,78.25
+Employees report that most people need help at first.,Downtown,daily,low,store_manager,2025-06-08 15:34:25,158.89
+It worse compared to a normal cart.,Rural,weekly,low,shopper,2025-05-20 15:34:25,200.26
+Employees report that setup is time-consuming.,Rural,daily,high,store_manager,2025-06-17 15:34:25,104.25
+Employees report that most people need help at first.,Suburban,daily,low,store_manager,2025-05-24 15:34:25,234.89
+"Using the cart felt surprisingly natural, especially with the voice assistant.",University District,occasional,high,shopper,2025-05-31 15:34:25,168.66
+We’ve had repeated complaints about connectivity.,Rural,occasional,low,store_manager,2025-06-08 15:34:25,211.87
+I've had to assist customers when shoppers ignore the prompts.,Airport,occasional,high,employee,2025-06-12 15:34:25,77.03
+I didn’t expect the cart to show me recipes mid-aisle.,Airport,occasional,high,shopper,2025-06-04 15:34:25,235.3
+We’ve had repeated complaints about cart syncing.,Suburban,occasional,high,store_manager,2025-06-13 15:34:25,75.49
+"I usually shop every day, and this made it more complicated.",Downtown,daily,medium,shopper,2025-05-28 15:34:25,198.76
+I really liked how it helped me find deals.,Downtown,occasional,high,shopper,2025-05-21 15:34:25,182.16
+I've had to assist customers when the cart freezes.,Rural,daily,high,employee,2025-06-05 15:34:25,232.2
+Most common complaint I hear is loud notifications.,Suburban,weekly,low,employee,2025-06-01 15:34:25,121.69
+"Using the cart felt convenient, especially with the voice assistant.",University District,weekly,high,shopper,2025-06-13 15:34:25,199.14
+It about the same compared to a normal cart.,University District,occasional,low,shopper,2025-05-22 15:34:25,150.83
+I didn’t expect the cart to freeze unexpectedly.,Downtown,daily,medium,shopper,2025-05-20 15:34:25,114.51
+I really liked how it helped me plan meals on the fly.,Suburban,occasional,medium,shopper,2025-06-13 15:34:25,162.86
+"Some shoppers love checkout skipping, others dislike automatic scanning.",University District,daily,medium,store_manager,2025-06-16 15:34:25,157.08
+We’ve had repeated complaints about connectivity.,Suburban,weekly,high,store_manager,2025-05-22 15:34:25,100.94
+Setup and maintenance is smooth.,University District,weekly,medium,employee,2025-05-28 15:34:25,135.06
+"I usually shop every day, and this made it kind of fun.",Downtown,weekly,high,shopper,2025-05-25 15:34:25,130.79
+Training shoppers on the cart is frustrating at peak hours.,Suburban,occasional,medium,employee,2025-05-29 15:34:25,67.27
+"Some shoppers love nutrition alerts, others dislike the voice prompts.",University District,occasional,medium,store_manager,2025-05-21 15:34:25,24.26
+Training shoppers on the cart is time-consuming.,Downtown,occasional,medium,employee,2025-05-27 15:34:25,82.56
+We’ve had repeated complaints about connectivity.,Airport,daily,high,store_manager,2025-06-01 15:34:25,83.39
+I didn’t expect the cart to show me recipes mid-aisle.,University District,occasional,high,shopper,2025-06-06 15:34:25,167.76
+Training shoppers on the cart is pretty easy.,Airport,daily,medium,employee,2025-05-25 15:34:25,47.86
+We’ve had repeated complaints about connectivity.,University District,occasional,low,store_manager,2025-05-31 15:34:25,249.42
+"I usually shop weekly, and this made it more complicated.",Downtown,weekly,high,shopper,2025-06-16 15:34:25,113.12
+"Using the cart felt convenient, especially with the voice assistant.",Rural,weekly,low,shopper,2025-05-28 15:34:25,202.5
+Setup and maintenance is a hassle.,Downtown,daily,high,employee,2025-05-26 15:34:25,189.98
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",University District,daily,medium,store_manager,2025-06-09 15:34:25,70.95
+Training shoppers on the cart is pretty easy.,Downtown,occasional,high,employee,2025-06-06 15:34:25,77.9
+Customers often mention that the cart helps people discover new items.,Suburban,occasional,high,store_manager,2025-05-25 15:34:25,215.26
+"It works well when users are tech-savvy, but fails if the screen lags.",Suburban,daily,medium,employee,2025-05-22 15:34:25,82.48
+It about the same compared to a normal cart.,Rural,weekly,low,shopper,2025-06-04 15:34:25,59.03
+It’s been polarizing with our regulars.,Downtown,occasional,medium,store_manager,2025-06-10 15:34:25,76.07
+I've had to assist customers when shoppers ignore the prompts.,Rural,weekly,high,employee,2025-06-16 15:34:25,237.05
+It’s been polarizing with our regulars.,University District,occasional,high,store_manager,2025-05-29 15:34:25,135.29
+We're seeing increased shopping speed since introducing the carts.,Downtown,occasional,medium,store_manager,2025-05-28 15:34:25,11.16
+Employees report that most people need help at first.,University District,occasional,medium,store_manager,2025-06-10 15:34:25,41.92
+I've had to assist customers when the cart freezes.,Airport,occasional,medium,employee,2025-05-30 15:34:25,143.93
+We're seeing increased shopping speed since introducing the carts.,Suburban,occasional,high,store_manager,2025-06-06 15:34:25,117.43
+Customers often mention that the cart is confusing for older shoppers.,University District,weekly,low,store_manager,2025-06-03 15:34:25,83.56
+"I usually shop every day, and this made it kind of fun.",Airport,weekly,medium,shopper,2025-05-20 15:34:25,238.53
+We're seeing increased basket size since introducing the carts.,Airport,occasional,high,store_manager,2025-06-11 15:34:25,181.71
+I've had to assist customers when shoppers ignore the prompts.,Downtown,weekly,medium,employee,2025-06-14 15:34:25,241.21
+We're seeing increased shopping speed since introducing the carts.,Airport,daily,low,store_manager,2025-06-05 15:34:25,188.75
+I didn’t expect the cart to show me recipes mid-aisle.,Airport,occasional,low,shopper,2025-05-23 15:34:25,171.06
+Setup and maintenance is manageable.,Suburban,daily,medium,employee,2025-06-18 15:34:25,123.51
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Airport,weekly,medium,store_manager,2025-05-25 15:34:25,66.89
+"Using the cart felt convenient, especially with the scanner.",Rural,weekly,medium,shopper,2025-06-16 15:34:25,14.81
+It was frustrating when the cart gave wrong suggestions.,Downtown,weekly,medium,shopper,2025-05-31 15:34:25,129.87
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",University District,weekly,low,store_manager,2025-05-26 15:34:25,148.37
+Setup and maintenance is a hassle.,Suburban,occasional,low,employee,2025-06-11 15:34:25,139.7
+Training shoppers on the cart is frustrating at peak hours.,Downtown,daily,low,employee,2025-06-04 15:34:25,176.9
+Setup and maintenance is smooth.,University District,weekly,high,employee,2025-06-15 15:34:25,169.15
+It about the same compared to a normal cart.,University District,occasional,low,shopper,2025-05-24 15:34:25,20.02
+We’ve had repeated complaints about recipe accuracy.,Rural,weekly,high,store_manager,2025-06-17 15:34:25,156.13
+Customers often mention that the cart is confusing for older shoppers.,University District,weekly,low,store_manager,2025-06-09 15:34:25,84.47
+"I usually shop weekly, and this made it kind of fun.",Airport,occasional,high,shopper,2025-06-06 15:34:25,72.83
+We're seeing increased basket size since introducing the carts.,Rural,occasional,low,store_manager,2025-06-17 15:34:25,183.0
+"Personally, I think it helps customers feel smarter.",Airport,occasional,low,employee,2025-06-11 15:34:25,63.28
+We’ve had repeated complaints about connectivity.,Airport,occasional,low,store_manager,2025-06-06 15:34:25,138.2
+"I usually shop occasionally, and this made it more complicated.",Downtown,daily,high,shopper,2025-05-28 15:34:25,142.19
+"Some shoppers love nutrition alerts, others dislike the voice prompts.",Rural,weekly,high,store_manager,2025-06-02 15:34:25,33.22
+I didn’t expect the cart to speak to me.,Suburban,occasional,high,shopper,2025-05-21 15:34:25,194.42
+"Some shoppers love nutrition alerts, others dislike the voice prompts.",Downtown,weekly,low,store_manager,2025-06-04 15:34:25,144.01
+"Personally, I think it's overcomplicated for groceries.",Airport,weekly,medium,employee,2025-06-14 15:34:25,152.98
+We're seeing increased basket size since introducing the carts.,Airport,daily,medium,store_manager,2025-05-24 15:34:25,29.93
+It was frustrating when the cart kept beeping unnecessarily.,Downtown,daily,medium,shopper,2025-05-21 15:34:25,143.44
+It’s been a hit with our regulars.,University District,occasional,medium,store_manager,2025-06-18 15:34:25,11.7
+Customers often mention that the cart helps people discover new items.,Airport,daily,medium,store_manager,2025-06-03 15:34:25,109.21
+Setup and maintenance is a hassle.,Airport,weekly,high,employee,2025-05-28 15:34:25,230.66
+"It works well when users are tech-savvy, but fails if the scanner jams.",Airport,occasional,low,employee,2025-05-21 15:34:25,103.54
+It’s been polarizing with our regulars.,Suburban,occasional,high,store_manager,2025-06-10 15:34:25,220.29
+Most common complaint I hear is lack of clarity.,Rural,occasional,medium,employee,2025-05-27 15:34:25,191.97
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Downtown,occasional,low,store_manager,2025-06-07 15:34:25,234.18
+I didn’t expect the cart to show me recipes mid-aisle.,University District,daily,medium,shopper,2025-06-15 15:34:25,71.08
+"Personally, I think it's overcomplicated for groceries.",Suburban,daily,high,employee,2025-06-06 15:34:25,97.81
+We’ve had repeated complaints about connectivity.,Rural,occasional,high,store_manager,2025-05-28 15:34:25,81.2
+I've had to assist customers when the cart freezes.,Rural,occasional,medium,employee,2025-05-24 15:34:25,129.29
+Most common complaint I hear is lack of clarity.,University District,daily,high,employee,2025-06-08 15:34:25,139.73
+We’ve had repeated complaints about cart syncing.,Downtown,occasional,medium,store_manager,2025-05-27 15:34:25,225.43
+I really liked how it helped me find deals.,Airport,daily,low,shopper,2025-06-06 15:34:25,10.53
+Training shoppers on the cart is time-consuming.,Rural,weekly,low,employee,2025-06-14 15:34:25,234.88
+Most common complaint I hear is lack of clarity.,Suburban,daily,high,employee,2025-05-29 15:34:25,129.45
+"I usually shop occasionally, and this made it faster.",Suburban,occasional,medium,shopper,2025-06-12 15:34:25,176.51
+I've had to assist customers when shoppers ignore the prompts.,University District,weekly,medium,employee,2025-06-17 15:34:25,123.38
+Training shoppers on the cart is frustrating at peak hours.,Suburban,daily,high,employee,2025-06-13 15:34:25,142.08
+"Using the cart felt surprisingly natural, especially with real-time budgeting.",Rural,weekly,high,shopper,2025-06-16 15:34:25,31.63
+We're seeing increased engagement since introducing the carts.,Suburban,weekly,high,store_manager,2025-06-07 15:34:25,83.21
+It’s been polarizing with our regulars.,Rural,occasional,medium,store_manager,2025-05-25 15:34:25,247.21
+Employees report that most people need help at first.,Airport,daily,medium,store_manager,2025-06-18 15:34:25,20.78
+I really liked how it helped me plan meals on the fly.,Airport,occasional,low,shopper,2025-06-06 15:34:25,90.96
+Customers often mention that the cart helps people discover new items.,Airport,weekly,low,store_manager,2025-06-11 15:34:25,10.33
+We’ve had repeated complaints about cart syncing.,Suburban,daily,medium,store_manager,2025-06-14 15:34:25,198.89
+We're seeing increased engagement since introducing the carts.,Suburban,weekly,medium,store_manager,2025-06-06 15:34:25,214.04
+"I usually shop every day, and this made it kind of fun.",University District,occasional,medium,shopper,2025-06-08 15:34:25,194.35
+Training shoppers on the cart is frustrating at peak hours.,University District,weekly,low,employee,2025-05-30 15:34:25,178.83
+I really liked how it helped me track my budget.,Rural,occasional,low,shopper,2025-06-15 15:34:25,204.62
+It was frustrating when the cart kept beeping unnecessarily.,Rural,weekly,high,shopper,2025-06-12 15:34:25,66.93
+"I usually shop weekly, and this made it kind of fun.",Downtown,occasional,low,shopper,2025-05-23 15:34:25,112.98
+We’ve had repeated complaints about cart syncing.,Airport,weekly,high,store_manager,2025-06-06 15:34:25,24.27
+"I usually shop occasionally, and this made it kind of fun.",Airport,occasional,low,shopper,2025-06-12 15:34:25,235.35
+"Personally, I think it helps customers feel smarter.",Rural,daily,low,employee,2025-05-30 15:34:25,222.04
+"Personally, I think it's overcomplicated for groceries.",Airport,occasional,high,employee,2025-05-30 15:34:25,104.24
+Employees report that setup is time-consuming.,Downtown,daily,high,store_manager,2025-06-05 15:34:25,113.13
+We're seeing increased basket size since introducing the carts.,University District,occasional,low,store_manager,2025-05-30 15:34:25,232.84
+"It works well when the signal is strong, but fails if the scanner jams.",Rural,occasional,low,employee,2025-05-28 15:34:25,203.19
+Setup and maintenance is a hassle.,Suburban,weekly,medium,employee,2025-05-25 15:34:25,139.48
+Setup and maintenance is manageable.,Downtown,occasional,high,employee,2025-06-08 15:34:25,230.05
+We're seeing increased shopping speed since introducing the carts.,Rural,occasional,low,store_manager,2025-06-03 15:34:25,27.0
+"Personally, I think it's overcomplicated for groceries.",Airport,weekly,low,employee,2025-06-14 15:34:25,180.35
+I didn’t expect the cart to freeze unexpectedly.,Downtown,daily,high,shopper,2025-06-18 15:34:25,227.42
+I really liked how it helped me plan meals on the fly.,Rural,daily,high,shopper,2025-05-20 15:34:25,205.23
+"Some shoppers love nutrition alerts, others dislike the voice prompts.",Downtown,daily,high,store_manager,2025-06-18 15:34:25,145.56
+Training shoppers on the cart is frustrating at peak hours.,Airport,occasional,medium,employee,2025-05-27 15:34:25,22.1
+"It works well when the signal is strong, but fails if the scanner jams.",Airport,weekly,medium,employee,2025-06-01 15:34:25,117.54
+We’ve had repeated complaints about connectivity.,Rural,occasional,high,store_manager,2025-06-04 15:34:25,110.45
+It better compared to a normal cart.,University District,occasional,medium,shopper,2025-06-03 15:34:25,189.54
+Employees report that setup is time-consuming.,University District,weekly,high,store_manager,2025-06-10 15:34:25,166.26
+"Some shoppers love nutrition alerts, others dislike the voice prompts.",Airport,weekly,high,store_manager,2025-05-23 15:34:25,55.55
+Most common complaint I hear is loud notifications.,Rural,weekly,low,employee,2025-06-04 15:34:25,104.47
+It was frustrating when the cart lost Wi-Fi.,University District,daily,medium,shopper,2025-06-14 15:34:25,248.97
+I've had to assist customers when shoppers ignore the prompts.,Suburban,occasional,low,employee,2025-06-12 15:34:25,247.77
+Training shoppers on the cart is time-consuming.,University District,occasional,high,employee,2025-05-27 15:34:25,107.42
+"Personally, I think it's overcomplicated for groceries.",Downtown,occasional,medium,employee,2025-06-01 15:34:25,230.91
+Employees report that most people need help at first.,University District,weekly,medium,store_manager,2025-06-05 15:34:25,46.55
+I've had to assist customers when shoppers ignore the prompts.,Suburban,occasional,medium,employee,2025-06-01 15:34:25,78.73
+"It works well when users are tech-savvy, but fails if the screen lags.",Airport,daily,high,employee,2025-06-12 15:34:25,38.91
+We’ve had repeated complaints about cart syncing.,Downtown,occasional,low,store_manager,2025-06-09 15:34:25,87.07
+It about the same compared to a normal cart.,Rural,daily,high,shopper,2025-05-28 15:34:25,217.59
+Employees report that setup is time-consuming.,Downtown,occasional,low,store_manager,2025-06-18 15:34:25,209.29
+"Personally, I think it helps customers feel smarter.",Downtown,occasional,medium,employee,2025-06-15 15:34:25,127.84
+Employees report that setup is time-consuming.,Suburban,occasional,medium,store_manager,2025-05-22 15:34:25,202.51
+"I usually shop occasionally, and this made it faster.",University District,daily,low,shopper,2025-05-22 15:34:25,91.07
+"Personally, I think it helps customers feel smarter.",Downtown,weekly,medium,employee,2025-05-30 15:34:25,29.01
+"It works well when users are tech-savvy, but fails if the scanner jams.",Airport,weekly,medium,employee,2025-06-02 15:34:25,220.71
+It was frustrating when the cart kept beeping unnecessarily.,Downtown,weekly,low,shopper,2025-05-26 15:34:25,161.5
+I didn’t expect the cart to freeze unexpectedly.,Downtown,weekly,high,shopper,2025-05-29 15:34:25,95.81
+"I usually shop occasionally, and this made it faster.",University District,daily,low,shopper,2025-06-09 15:34:25,40.49
+Training shoppers on the cart is frustrating at peak hours.,University District,daily,low,employee,2025-06-15 15:34:25,167.27
+Training shoppers on the cart is pretty easy.,Rural,daily,low,employee,2025-06-01 15:34:25,94.3
+It’s been a hit with our regulars.,Airport,occasional,low,store_manager,2025-06-12 15:34:25,188.08
+Training shoppers on the cart is time-consuming.,Suburban,weekly,low,employee,2025-05-22 15:34:25,244.42
+I didn’t expect the cart to freeze unexpectedly.,Airport,occasional,low,shopper,2025-05-25 15:34:25,67.18
+It was frustrating when the cart lost Wi-Fi.,Airport,weekly,low,shopper,2025-06-03 15:34:25,18.08
+"Some shoppers love nutrition alerts, others dislike the voice prompts.",Downtown,weekly,low,store_manager,2025-05-31 15:34:25,23.78
+Customers often mention that the cart is confusing for older shoppers.,University District,occasional,low,store_manager,2025-05-20 15:34:25,234.85
+Most common complaint I hear is lack of clarity.,University District,weekly,low,employee,2025-06-17 15:34:25,238.82
+It’s been a hit with our regulars.,Suburban,occasional,low,store_manager,2025-06-17 15:34:25,190.82
+Customers often mention that the cart is confusing for older shoppers.,University District,weekly,high,store_manager,2025-05-30 15:34:25,166.09
+It was frustrating when the cart lost Wi-Fi.,Suburban,occasional,medium,shopper,2025-05-22 15:34:25,142.18
+It better compared to a normal cart.,Downtown,weekly,high,shopper,2025-06-09 15:34:25,234.22
+Training shoppers on the cart is frustrating at peak hours.,Downtown,occasional,low,employee,2025-06-11 15:34:25,209.98
+Setup and maintenance is manageable.,Suburban,daily,medium,employee,2025-06-02 15:34:25,161.39
+It’s been polarizing with our regulars.,Airport,occasional,low,store_manager,2025-06-08 15:34:25,228.3
+I've had to assist customers when shoppers ignore the prompts.,Rural,occasional,low,employee,2025-05-23 15:34:25,210.98
+"It works well when users are tech-savvy, but fails if the scanner jams.",Rural,daily,medium,employee,2025-06-01 15:34:25,180.01
+"Using the cart felt awkward, especially with the voice assistant.",Downtown,occasional,medium,shopper,2025-06-12 15:34:25,80.82
+"Some shoppers love checkout skipping, others dislike automatic scanning.",Suburban,occasional,low,store_manager,2025-05-26 15:34:25,61.14
+It’s been polarizing with our regulars.,Suburban,weekly,medium,store_manager,2025-06-16 15:34:25,198.82
+Setup and maintenance is manageable.,Airport,daily,medium,employee,2025-06-03 15:34:25,17.93
+Setup and maintenance is a hassle.,Suburban,occasional,high,employee,2025-05-21 15:34:25,196.31
+"Personally, I think it helps customers feel smarter.",Airport,daily,low,employee,2025-06-03 15:34:25,41.75
+It was frustrating when the cart lost Wi-Fi.,University District,weekly,low,shopper,2025-06-05 15:34:25,158.7
+It’s been slow to catch on with our regulars.,Suburban,daily,low,store_manager,2025-06-07 15:34:25,242.31
+Most common complaint I hear is loud notifications.,University District,weekly,low,employee,2025-05-27 15:34:25,245.76
+I didn’t expect the cart to freeze unexpectedly.,Rural,daily,low,shopper,2025-05-20 15:34:25,116.17
+We're seeing increased basket size since introducing the carts.,Airport,weekly,low,store_manager,2025-05-29 15:34:25,79.14
+It about the same compared to a normal cart.,Rural,weekly,high,shopper,2025-05-28 15:34:25,231.1
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",University District,occasional,high,store_manager,2025-05-25 15:34:25,189.47
+It worse compared to a normal cart.,Airport,daily,medium,shopper,2025-05-20 15:34:25,52.64
+It was frustrating when the cart kept beeping unnecessarily.,Suburban,weekly,medium,shopper,2025-05-29 15:34:25,215.44
+It worse compared to a normal cart.,Suburban,weekly,low,shopper,2025-06-18 15:34:25,157.76
+Employees report that most people need help at first.,Downtown,weekly,medium,store_manager,2025-06-08 15:34:25,164.19
+It was frustrating when the cart gave wrong suggestions.,Airport,occasional,low,shopper,2025-05-30 15:34:25,235.71
+It was frustrating when the cart kept beeping unnecessarily.,University District,daily,low,shopper,2025-06-10 15:34:25,185.14
+Customers often mention that the cart helps people discover new items.,Airport,occasional,low,store_manager,2025-06-11 15:34:25,38.11
+Setup and maintenance is manageable.,Rural,occasional,low,employee,2025-06-12 15:34:25,191.05
+It was frustrating when the cart lost Wi-Fi.,University District,daily,high,shopper,2025-06-02 15:34:25,83.43
+"I usually shop weekly, and this made it kind of fun.",Downtown,daily,low,shopper,2025-06-15 15:34:25,198.02
+Customers often mention that the cart helps people discover new items.,Suburban,weekly,low,store_manager,2025-06-15 15:34:25,92.09
+Setup and maintenance is smooth.,Suburban,weekly,low,employee,2025-05-21 15:34:25,22.61
+We're seeing increased basket size since introducing the carts.,Suburban,daily,medium,store_manager,2025-05-23 15:34:25,109.33
+I didn’t expect the cart to show me recipes mid-aisle.,University District,occasional,medium,shopper,2025-05-30 15:34:25,196.51
+It better compared to a normal cart.,Rural,daily,high,shopper,2025-05-30 15:34:25,196.2
+"Some shoppers love checkout skipping, others dislike automatic scanning.",Suburban,occasional,high,store_manager,2025-05-28 15:34:25,11.95
+We’ve had repeated complaints about recipe accuracy.,University District,occasional,high,store_manager,2025-06-17 15:34:25,77.46
+We’ve had repeated complaints about recipe accuracy.,Downtown,weekly,medium,store_manager,2025-05-26 15:34:25,104.09
+It worse compared to a normal cart.,Downtown,weekly,medium,shopper,2025-05-29 15:34:25,142.7
+I really liked how it helped me plan meals on the fly.,Airport,occasional,low,shopper,2025-06-04 15:34:25,135.15
+Employees report that setup is time-consuming.,Airport,occasional,low,store_manager,2025-05-28 15:34:25,195.96
+Training shoppers on the cart is time-consuming.,Rural,weekly,high,employee,2025-06-11 15:34:25,151.85
+Training shoppers on the cart is frustrating at peak hours.,Suburban,occasional,medium,employee,2025-06-04 15:34:25,52.82
+I really liked how it helped me plan meals on the fly.,Airport,daily,low,shopper,2025-06-10 15:34:25,240.4
+Employees report that most people need help at first.,University District,weekly,low,store_manager,2025-06-13 15:34:25,141.06
+We're seeing increased basket size since introducing the carts.,University District,weekly,medium,store_manager,2025-06-10 15:34:25,224.56
+I've had to assist customers when the cart freezes.,Airport,occasional,medium,employee,2025-06-16 15:34:25,24.52
+Setup and maintenance is a hassle.,Suburban,weekly,medium,employee,2025-06-02 15:34:25,204.7
+Most common complaint I hear is loud notifications.,Airport,daily,medium,employee,2025-06-18 15:34:25,189.65
+I didn’t expect the cart to speak to me.,Downtown,occasional,high,shopper,2025-05-31 15:34:25,124.6
+"I usually shop every day, and this made it more complicated.",Rural,occasional,high,shopper,2025-05-23 15:34:25,125.1
+Training shoppers on the cart is frustrating at peak hours.,Rural,daily,high,employee,2025-06-08 15:34:25,79.05
+"I usually shop every day, and this made it kind of fun.",Suburban,daily,medium,shopper,2025-05-21 15:34:25,216.07
+"Personally, I think it's overcomplicated for groceries.",Suburban,occasional,high,employee,2025-05-25 15:34:25,101.06
+"Personally, I think it's overcomplicated for groceries.",University District,occasional,medium,employee,2025-05-31 15:34:25,228.6
+It about the same compared to a normal cart.,Airport,daily,medium,shopper,2025-06-11 15:34:25,172.79
+We're seeing increased engagement since introducing the carts.,Rural,daily,low,store_manager,2025-06-15 15:34:25,135.51
+We’ve had repeated complaints about connectivity.,Airport,weekly,low,store_manager,2025-05-30 15:34:25,117.26
+We're seeing increased basket size since introducing the carts.,University District,weekly,high,store_manager,2025-06-18 15:34:25,143.66
+"Personally, I think it helps customers feel smarter.",Suburban,daily,low,employee,2025-06-13 15:34:25,241.42
+Customers often mention that the cart is confusing for older shoppers.,Downtown,weekly,low,store_manager,2025-05-23 15:34:25,219.13
+It’s been polarizing with our regulars.,Rural,occasional,low,store_manager,2025-06-04 15:34:25,75.73
+I didn’t expect the cart to show me recipes mid-aisle.,Rural,occasional,low,shopper,2025-06-05 15:34:25,134.75
+Employees report that setup is time-consuming.,Suburban,occasional,high,store_manager,2025-06-10 15:34:25,11.09
+"It works well when users are tech-savvy, but fails if the scanner jams.",Downtown,daily,medium,employee,2025-06-11 15:34:25,191.45
+"Personally, I think it's overcomplicated for groceries.",Suburban,occasional,medium,employee,2025-06-15 15:34:25,25.6
+It was frustrating when the cart lost Wi-Fi.,Rural,daily,high,shopper,2025-05-29 15:34:25,165.21
+It was frustrating when the cart kept beeping unnecessarily.,Rural,occasional,low,shopper,2025-06-07 15:34:25,169.75
+"I usually shop weekly, and this made it kind of fun.",Rural,weekly,medium,shopper,2025-06-16 15:34:25,60.86
+It’s been slow to catch on with our regulars.,Downtown,weekly,high,store_manager,2025-06-15 15:34:25,130.82
+It’s been slow to catch on with our regulars.,Downtown,daily,low,store_manager,2025-06-01 15:34:25,29.33
+We’ve had repeated complaints about cart syncing.,Downtown,daily,low,store_manager,2025-06-15 15:34:25,190.2
+Employees report that setup is time-consuming.,Suburban,daily,medium,store_manager,2025-06-12 15:34:25,70.05
+It’s been polarizing with our regulars.,University District,occasional,medium,store_manager,2025-06-03 15:34:25,110.58
+Setup and maintenance is smooth.,Downtown,occasional,low,employee,2025-05-30 15:34:25,239.49
+It was frustrating when the cart kept beeping unnecessarily.,Rural,daily,low,shopper,2025-06-04 15:34:25,140.01
+"I usually shop occasionally, and this made it kind of fun.",Downtown,occasional,low,shopper,2025-05-27 15:34:25,213.1
+It’s been a hit with our regulars.,Downtown,weekly,medium,store_manager,2025-06-17 15:34:25,13.58
+I didn’t expect the cart to speak to me.,Rural,daily,medium,shopper,2025-06-06 15:34:25,144.43
+I really liked how it helped me find deals.,Downtown,daily,low,shopper,2025-06-09 15:34:25,102.82
+Training shoppers on the cart is frustrating at peak hours.,Downtown,occasional,low,employee,2025-06-15 15:34:25,157.97
+I've had to assist customers when shoppers ignore the prompts.,Suburban,weekly,high,employee,2025-05-26 15:34:25,49.15
+Employees report that most people need help at first.,Downtown,occasional,medium,store_manager,2025-05-23 15:34:25,200.18
+"Using the cart felt convenient, especially with real-time budgeting.",Suburban,weekly,medium,shopper,2025-05-29 15:34:25,61.28
+We’ve had repeated complaints about recipe accuracy.,Downtown,daily,low,store_manager,2025-06-18 15:34:25,241.62
+Setup and maintenance is smooth.,Rural,daily,medium,employee,2025-06-15 15:34:25,125.19
+"I usually shop every day, and this made it faster.",Suburban,weekly,medium,shopper,2025-05-21 15:34:25,232.13
+Employees report that setup is time-consuming.,Suburban,daily,medium,store_manager,2025-05-29 15:34:25,187.58
+It worse compared to a normal cart.,Airport,weekly,low,shopper,2025-06-17 15:34:25,101.92
+Most common complaint I hear is lack of clarity.,Rural,occasional,medium,employee,2025-05-29 15:34:25,69.15
+I've had to assist customers when the cart freezes.,University District,daily,low,employee,2025-06-13 15:34:25,140.98
+Customers often mention that the cart helps people discover new items.,University District,occasional,high,store_manager,2025-06-05 15:34:25,107.02
+Customers often mention that the cart is confusing for older shoppers.,Downtown,daily,high,store_manager,2025-05-25 15:34:25,54.76
+It worse compared to a normal cart.,Airport,weekly,low,shopper,2025-05-25 15:34:25,131.17
+"Personally, I think it's overcomplicated for groceries.",University District,occasional,high,employee,2025-05-22 15:34:25,52.8
+Customers often mention that the cart helps people discover new items.,Suburban,occasional,high,store_manager,2025-05-27 15:34:25,11.96
+I didn’t expect the cart to speak to me.,University District,occasional,medium,shopper,2025-05-29 15:34:25,195.95
+"Personally, I think it helps customers feel smarter.",Airport,daily,medium,employee,2025-05-25 15:34:25,226.89
+"Personally, I think it's overcomplicated for groceries.",Suburban,weekly,medium,employee,2025-06-18 15:34:25,88.85
+"I usually shop every day, and this made it kind of fun.",University District,daily,high,shopper,2025-05-26 15:34:25,58.67
+Customers often mention that the cart helps people discover new items.,Downtown,occasional,low,store_manager,2025-05-21 15:34:25,22.63
+I really liked how it helped me find deals.,Downtown,occasional,high,shopper,2025-06-08 15:34:25,91.01
+I really liked how it helped me track my budget.,University District,occasional,medium,shopper,2025-06-05 15:34:25,14.47
+Training shoppers on the cart is pretty easy.,Suburban,weekly,low,employee,2025-05-25 15:34:25,58.19
+Customers often mention that the cart helps people discover new items.,Suburban,weekly,low,store_manager,2025-05-31 15:34:25,74.39
+I really liked how it helped me plan meals on the fly.,Airport,daily,low,shopper,2025-06-04 15:34:25,124.12
+Customers often mention that the cart is confusing for older shoppers.,Rural,weekly,low,store_manager,2025-06-07 15:34:25,211.33
+Training shoppers on the cart is time-consuming.,Suburban,weekly,medium,employee,2025-06-05 15:34:25,38.03
+I've had to assist customers when shoppers ignore the prompts.,Rural,daily,high,employee,2025-06-06 15:34:25,139.74
+I've had to assist customers when shoppers ignore the prompts.,University District,weekly,low,employee,2025-05-23 15:34:25,80.71
+Customers often mention that the cart helps people discover new items.,University District,weekly,low,store_manager,2025-06-08 15:34:25,105.67
+Training shoppers on the cart is time-consuming.,University District,weekly,high,employee,2025-05-22 15:34:25,34.96
+Employees report that setup is time-consuming.,Downtown,daily,low,store_manager,2025-06-15 15:34:25,135.83
+Employees report that most people need help at first.,Airport,occasional,medium,store_manager,2025-06-15 15:34:25,225.39
+I've had to assist customers when shoppers ignore the prompts.,Downtown,daily,low,employee,2025-05-21 15:34:25,55.8
+Employees report that setup is time-consuming.,Downtown,occasional,low,store_manager,2025-05-30 15:34:25,248.68
+I didn’t expect the cart to freeze unexpectedly.,University District,weekly,high,shopper,2025-05-30 15:34:25,196.57
+Customers often mention that the cart is confusing for older shoppers.,Downtown,daily,high,store_manager,2025-05-22 15:34:25,93.91
+"I usually shop every day, and this made it kind of fun.",Airport,occasional,low,shopper,2025-06-07 15:34:25,115.42
+I've had to assist customers when the cart freezes.,University District,weekly,high,employee,2025-06-14 15:34:25,246.37
+It better compared to a normal cart.,University District,weekly,low,shopper,2025-05-30 15:34:25,124.53
+"It works well when the signal is strong, but fails if the screen lags.",University District,occasional,high,employee,2025-06-18 15:34:25,126.57
+It was frustrating when the cart lost Wi-Fi.,Rural,occasional,high,shopper,2025-06-16 15:34:25,225.99
+I really liked how it helped me plan meals on the fly.,Rural,occasional,medium,shopper,2025-05-23 15:34:25,34.89
+It better compared to a normal cart.,Airport,occasional,high,shopper,2025-06-12 15:34:25,135.43
+Setup and maintenance is smooth.,Suburban,daily,low,employee,2025-06-18 15:34:25,144.69
+I didn’t expect the cart to show me recipes mid-aisle.,Suburban,occasional,low,shopper,2025-05-31 15:34:25,113.04
+I didn’t expect the cart to show me recipes mid-aisle.,Suburban,daily,low,shopper,2025-05-23 15:34:25,179.53
+I didn’t expect the cart to speak to me.,Rural,daily,low,shopper,2025-06-13 15:34:25,207.07
+I really liked how it helped me plan meals on the fly.,University District,weekly,low,shopper,2025-06-10 15:34:25,107.64
+"Some shoppers love nutrition alerts, others dislike the voice prompts.",Suburban,occasional,medium,store_manager,2025-05-30 15:34:25,120.3
+"Using the cart felt awkward, especially with the voice assistant.",Airport,weekly,low,shopper,2025-06-16 15:34:25,41.67
+Customers often mention that the cart helps people discover new items.,Downtown,daily,low,store_manager,2025-06-03 15:34:25,21.02
+Most common complaint I hear is lack of clarity.,Suburban,daily,medium,employee,2025-06-17 15:34:25,222.11
+"I usually shop weekly, and this made it kind of fun.",Downtown,occasional,high,shopper,2025-05-27 15:34:25,109.63
+"Personally, I think it helps customers feel smarter.",Rural,weekly,low,employee,2025-06-11 15:34:25,62.35
+We’ve had repeated complaints about recipe accuracy.,Rural,daily,high,store_manager,2025-06-08 15:34:25,37.46
+It’s been a hit with our regulars.,Suburban,occasional,medium,store_manager,2025-05-30 15:34:25,126.64
+Setup and maintenance is a hassle.,Downtown,occasional,medium,employee,2025-05-22 15:34:25,69.32
+We're seeing increased engagement since introducing the carts.,Airport,occasional,medium,store_manager,2025-06-02 15:34:25,237.45
+"Using the cart felt convenient, especially with real-time budgeting.",Rural,weekly,low,shopper,2025-06-17 15:34:25,54.18
+It was frustrating when the cart kept beeping unnecessarily.,Suburban,weekly,low,shopper,2025-05-21 15:34:25,94.89
+"Using the cart felt surprisingly natural, especially with the voice assistant.",Downtown,occasional,high,shopper,2025-06-06 15:34:25,12.53
+We’ve had repeated complaints about recipe accuracy.,Suburban,weekly,low,store_manager,2025-06-17 15:34:25,164.85
+Setup and maintenance is a hassle.,Suburban,occasional,low,employee,2025-06-11 15:34:25,240.95
+Setup and maintenance is manageable.,Rural,daily,high,employee,2025-06-08 15:34:25,230.97
+I've had to assist customers when shoppers ignore the prompts.,Airport,occasional,low,employee,2025-05-22 15:34:25,82.78
+"Using the cart felt surprisingly natural, especially with the scanner.",Downtown,daily,high,shopper,2025-05-31 15:34:25,73.44
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Airport,occasional,medium,store_manager,2025-05-30 15:34:25,185.32
+"It works well when users are tech-savvy, but fails if the screen lags.",University District,daily,low,employee,2025-06-16 15:34:25,91.19
+It better compared to a normal cart.,University District,occasional,high,shopper,2025-05-30 15:34:25,84.31
+Most common complaint I hear is loud notifications.,Airport,weekly,low,employee,2025-06-01 15:34:25,119.38
+"Some shoppers love nutrition alerts, others dislike the voice prompts.",University District,occasional,low,store_manager,2025-06-16 15:34:25,50.82
+Most common complaint I hear is loud notifications.,Downtown,occasional,high,employee,2025-05-29 15:34:25,118.63
+Training shoppers on the cart is pretty easy.,Rural,weekly,high,employee,2025-05-31 15:34:25,177.67
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",Airport,daily,low,store_manager,2025-05-27 15:34:25,210.27
+"Using the cart felt convenient, especially with real-time budgeting.",Rural,daily,low,shopper,2025-06-18 15:34:25,150.89
+Employees report that most people need help at first.,Suburban,weekly,high,store_manager,2025-06-17 15:34:25,149.67
+I didn’t expect the cart to speak to me.,Airport,occasional,low,shopper,2025-06-16 15:34:25,126.17
+Setup and maintenance is smooth.,Downtown,daily,medium,employee,2025-06-15 15:34:25,65.84
+We’ve had repeated complaints about recipe accuracy.,Airport,weekly,high,store_manager,2025-06-05 15:34:25,47.7
+Setup and maintenance is smooth.,Rural,occasional,medium,employee,2025-06-08 15:34:25,154.23
+Training shoppers on the cart is frustrating at peak hours.,Rural,daily,low,employee,2025-06-05 15:34:25,96.95
+It’s been a hit with our regulars.,University District,daily,high,store_manager,2025-05-28 15:34:25,169.31
+I really liked how it helped me plan meals on the fly.,Airport,occasional,low,shopper,2025-06-01 15:34:25,164.09
+I really liked how it helped me find deals.,University District,occasional,medium,shopper,2025-05-22 15:34:25,105.61
+We're seeing increased shopping speed since introducing the carts.,University District,daily,low,store_manager,2025-05-24 15:34:25,153.19
+I've had to assist customers when shoppers ignore the prompts.,University District,weekly,high,employee,2025-06-05 15:34:25,77.03
+We're seeing increased shopping speed since introducing the carts.,University District,occasional,medium,store_manager,2025-06-16 15:34:25,43.33
+"I usually shop occasionally, and this made it faster.",Downtown,weekly,medium,shopper,2025-05-21 15:34:25,188.16
+I really liked how it helped me plan meals on the fly.,Suburban,occasional,high,shopper,2025-06-02 15:34:25,43.48
+Setup and maintenance is smooth.,University District,weekly,medium,employee,2025-06-08 15:34:25,114.14
+It’s been slow to catch on with our regulars.,Downtown,weekly,medium,store_manager,2025-06-01 15:34:25,156.18
+We’ve had repeated complaints about recipe accuracy.,Rural,weekly,high,store_manager,2025-05-24 15:34:25,121.29
+It better compared to a normal cart.,University District,occasional,medium,shopper,2025-05-26 15:34:25,37.46
+"It works well when the signal is strong, but fails if the scanner jams.",University District,weekly,high,employee,2025-05-28 15:34:25,219.61
+Employees report that setup is time-consuming.,Rural,daily,medium,store_manager,2025-06-05 15:34:25,220.17
+It about the same compared to a normal cart.,Suburban,weekly,high,shopper,2025-06-16 15:34:25,99.28
+Most common complaint I hear is lack of clarity.,University District,weekly,high,employee,2025-05-20 15:34:25,133.78
+Most common complaint I hear is lack of clarity.,Downtown,daily,medium,employee,2025-05-30 15:34:25,191.28
+"Some shoppers love checkout skipping, others dislike automatic scanning.",University District,weekly,high,store_manager,2025-05-23 15:34:25,103.8
+It’s been polarizing with our regulars.,Suburban,daily,medium,store_manager,2025-06-07 15:34:25,182.24
+"It works well when users are tech-savvy, but fails if the screen lags.",Downtown,weekly,low,employee,2025-06-08 15:34:25,195.99
+"Some shoppers love nutrition alerts, others dislike automatic scanning.",University District,occasional,high,store_manager,2025-06-15 15:34:25,61.19
+"Personally, I think it helps customers feel smarter.",Airport,occasional,high,employee,2025-05-31 15:34:25,58.97
+We’ve had repeated complaints about recipe accuracy.,Airport,occasional,low,store_manager,2025-06-05 15:34:25,247.86
+It’s been polarizing with our regulars.,Suburban,daily,low,store_manager,2025-06-14 15:34:25,196.17
+"It works well when users are tech-savvy, but fails if the scanner jams.",Airport,daily,high,employee,2025-05-21 15:34:25,156.48
+It worse compared to a normal cart.,Suburban,weekly,medium,shopper,2025-05-20 15:34:25,10.33
+We’ve had repeated complaints about cart syncing.,Suburban,daily,medium,store_manager,2025-06-01 15:34:25,25.04
+"Some shoppers love checkout skipping, others dislike the voice prompts.",Rural,occasional,medium,store_manager,2025-06-05 15:34:25,126.08
+Setup and maintenance is a hassle.,Downtown,occasional,low,employee,2025-06-18 15:34:25,182.4
+I've had to assist customers when the cart freezes.,Airport,daily,high,employee,2025-05-23 15:34:25,50.2
+We’ve had repeated complaints about cart syncing.,Suburban,daily,high,store_manager,2025-06-01 15:34:25,185.16
+"I usually shop every day, and this made it kind of fun.",Suburban,daily,low,shopper,2025-06-05 15:34:25,74.08
+"Using the cart felt awkward, especially with real-time budgeting.",University District,weekly,low,shopper,2025-06-13 15:34:25,126.85
+It better compared to a normal cart.,Rural,weekly,medium,shopper,2025-06-02 15:34:25,117.37
+Customers often mention that the cart helps people discover new items.,Suburban,weekly,low,store_manager,2025-06-10 15:34:25,126.07
+It about the same compared to a normal cart.,Rural,occasional,medium,shopper,2025-06-18 15:34:25,204.1
+It was frustrating when the cart kept beeping unnecessarily.,Airport,weekly,medium,shopper,2025-06-14 15:34:25,219.67
+I didn’t expect the cart to speak to me.,Downtown,occasional,high,shopper,2025-05-31 15:34:25,238.06
+"Personally, I think it helps customers feel smarter.",Downtown,occasional,high,employee,2025-06-17 15:34:25,110.49
+I really liked how it helped me plan meals on the fly.,University District,daily,high,shopper,2025-05-24 15:34:25,218.33
+"Personally, I think it helps customers feel smarter.",Airport,daily,low,employee,2025-06-17 15:34:25,170.81
+"I usually shop every day, and this made it faster.",Downtown,weekly,low,shopper,2025-06-02 15:34:25,211.59
+It was frustrating when the cart gave wrong suggestions.,Downtown,daily,high,shopper,2025-06-07 15:34:25,159.78
+"I usually shop every day, and this made it kind of fun.",Rural,occasional,high,shopper,2025-06-14 15:34:25,159.27
+Customers often mention that the cart helps people discover new items.,Airport,daily,medium,store_manager,2025-06-12 15:34:25,178.85
+"I usually shop weekly, and this made it more complicated.",Downtown,weekly,low,shopper,2025-06-17 15:34:25,26.38
+Setup and maintenance is smooth.,Downtown,daily,low,employee,2025-05-22 15:34:25,178.44
+We're seeing increased shopping speed since introducing the carts.,Suburban,daily,medium,store_manager,2025-05-21 15:34:25,120.65
+Most common complaint I hear is lack of clarity.,Airport,daily,medium,employee,2025-05-21 15:34:25,162.39
+It was frustrating when the cart lost Wi-Fi.,Downtown,occasional,low,shopper,2025-06-01 15:34:25,11.36
+We’ve had repeated complaints about recipe accuracy.,Suburban,daily,low,store_manager,2025-06-16 15:34:25,117.56
+We're seeing increased shopping speed since introducing the carts.,Suburban,occasional,high,store_manager,2025-06-03 15:34:25,47.15
+I didn’t expect the cart to freeze unexpectedly.,Rural,daily,high,shopper,2025-06-06 15:34:25,28.64
+"I usually shop occasionally, and this made it kind of fun.",Suburban,daily,low,shopper,2025-06-11 15:34:25,159.01
+Training shoppers on the cart is pretty easy.,Airport,daily,high,employee,2025-06-04 15:34:25,185.25
+"I usually shop every day, and this made it faster.",University District,weekly,medium,shopper,2025-06-12 15:34:25,46.61
+I really liked how it helped me plan meals on the fly.,Suburban,weekly,high,shopper,2025-06-12 15:34:25,70.46
+"It works well when the signal is strong, but fails if the scanner jams.",Suburban,weekly,high,employee,2025-06-18 15:34:25,155.62
+I really liked how it helped me track my budget.,Suburban,daily,high,shopper,2025-05-28 15:34:25,155.11
+Training shoppers on the cart is time-consuming.,University District,occasional,medium,employee,2025-06-15 15:34:25,219.56
+It’s been a hit with our regulars.,Downtown,occasional,low,store_manager,2025-06-07 15:34:25,47.0
+It was frustrating when the cart kept beeping unnecessarily.,University District,weekly,medium,shopper,2025-06-03 15:34:25,17.26
+We're seeing increased shopping speed since introducing the carts.,Suburban,occasional,low,store_manager,2025-06-13 15:34:25,30.08
+I really liked how it helped me plan meals on the fly.,Rural,daily,high,shopper,2025-06-06 15:34:25,131.54
+It worse compared to a normal cart.,Airport,weekly,medium,shopper,2025-06-12 15:34:25,186.76
+I really liked how it helped me find deals.,Airport,daily,medium,shopper,2025-06-16 15:34:25,176.51
+I've had to assist customers when shoppers ignore the prompts.,Airport,occasional,high,employee,2025-06-01 15:34:25,244.23
+It about the same compared to a normal cart.,Suburban,occasional,low,shopper,2025-05-22 15:34:25,19.25
+"I usually shop weekly, and this made it more complicated.",Suburban,daily,medium,shopper,2025-06-12 15:34:25,50.08
+"Some shoppers love checkout skipping, others dislike automatic scanning.",Rural,weekly,medium,store_manager,2025-06-02 15:34:25,232.89
+Employees report that setup is time-consuming.,Rural,weekly,high,store_manager,2025-05-20 15:34:25,95.09
+We're seeing increased engagement since introducing the carts.,University District,occasional,low,store_manager,2025-06-09 15:34:25,61.29
+I didn’t expect the cart to show me recipes mid-aisle.,Suburban,weekly,low,shopper,2025-05-27 15:34:25,171.76
+I really liked how it helped me find deals.,University District,weekly,medium,shopper,2025-06-03 15:34:25,205.57
+It’s been slow to catch on with our regulars.,Airport,occasional,medium,store_manager,2025-05-22 15:34:25,148.39
+"I usually shop weekly, and this made it faster.",Rural,daily,high,shopper,2025-06-15 15:34:25,104.55
+It was frustrating when the cart gave wrong suggestions.,Downtown,weekly,medium,shopper,2025-06-04 15:34:25,62.97
+Most common complaint I hear is lack of clarity.,Suburban,weekly,medium,employee,2025-06-05 15:34:25,59.07
+It worse compared to a normal cart.,Downtown,daily,low,shopper,2025-05-29 15:34:25,178.36
+"Using the cart felt convenient, especially with the voice assistant.",Airport,weekly,medium,shopper,2025-06-09 15:34:25,56.17
