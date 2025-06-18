@@ -15,9 +15,9 @@ You’ll finish by running a hands-on analysis of a Smart Grocery Cart pilot dat
 
 | Microlesson | Duration | Focus |
 |-------------|----------|-------|
-| [Decomposing marketing analytics for AI integration](../decomposing-marketing-analytics-ai/README.md) | 15 min | Learn how to break larger analytic tasks into GenAI-friendly subcomponents. |
-| [Leveraging GenAI for unstructured marketing data](../leveraging-genai-unstructured-marketing-data/README.md) | 15 min | Learn how GenAI can extract insights from survey responses, comments, and other free-text fields. |
-| [Market fit analysis using GenAI](../market-fit-analysis-using-genai/README.md) | 30 min | Apply what you've learned to a real-world dataset and strategic business question. |
+| [Decomposing marketing analytics for AI integration](decomposing-marketing-analytics-ai/README.md) | 15 min | Learn how to break larger analytic tasks into GenAI-friendly subcomponents. |
+| [Leveraging GenAI for unstructured marketing data](leveraging-genai-unstructured-marketing-data/README.md) | 15 min | Learn how GenAI can extract insights from survey responses, comments, and other free-text fields. |
+| [Market fit analysis using GenAI](market-fit-analysis-using-genai/README.md) | 30 min | Apply what you've learned to a real-world dataset and strategic business question. |
 
 
 ## Prerequisites
