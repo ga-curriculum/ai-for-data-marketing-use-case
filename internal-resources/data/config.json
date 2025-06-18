@@ -1,0 +1,76 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "AI Use Case: Marketing Analytics",
+    "name": "ai-for-data-marketing-use-case",
+    "type": "Lesson",
+    "about": "",
+    "starterCode": "",
+    "solutionCode": "",
+    "deployedSite": ""
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Decomposing marketing analytics for AI integration",
+          "dirName": "decomposing-marketing-analytics-ai",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "Learn how to break larger analytic tasks into GenAI-friendly subcomponents.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 15
+        },
+        {
+          "friendlyName": "Leveraging GenAI for unstructured marketing data",
+          "dirName": "leveraging-genai-unstructured-marketing-data",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "Learn how GenAI can extract insights from survey responses, comments, and other free-text fields.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 15
+        },
+        {
+          "friendlyName": "Market fit analysis using GenAI",
+          "dirName": "market-fit-analysis-using-genai",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "Apply what you've learned to a real-world dataset and strategic business question.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 30
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}
