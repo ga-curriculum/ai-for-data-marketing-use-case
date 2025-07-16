@@ -15,6 +15,8 @@ Let's practice with some small sample dataset:
 - [sample_comments_feedback.csv](assets/sample_comments_feedback.csv)
 - [sample_nps_feedback.csv](assets/sample_nps_feedback.csv)
 
+**NPS (Net Promoter Score)** is a widely used metric that measures customer loyalty and satisfaction by asking how likely customers are to recommend a product or service to others, typically on a scale from 0 to 10. Responses are categorized as promoters, passives, or detractors, and the score helps organizations gauge overall customer sentiment.
+
 ---
 
 ## Analyze social media feedback fast
