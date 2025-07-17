@@ -7,7 +7,7 @@
 
 ---
 
-## Why AI needs decomposition
+## Thinking in Steps: How to Decompose Tasks for AI
 
 Modern marketing analytics mixes structured data (like engagement rates) and unstructured data (like customer feedback). 
 
